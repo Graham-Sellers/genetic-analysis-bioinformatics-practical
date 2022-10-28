@@ -1,1 +1,1 @@
-# genetic_analysis
+# genetic_analysis_practical

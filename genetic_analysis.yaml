@@ -1,0 +1,26 @@
+name: genetic_analysis
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyter
+  - r-base
+  - r-irkernel
+  # - nb_conda_kernels
+  
+  # R packages
+  - r-inext
+  - r-vegan
+  
+  # bash kernal in jupyter
+  - bash_kernel
+
+  # processing sequence reads
+  - fastp
+
+  # taxonomic ID and LCA
+  - kraken2
+
+  # reports and outputs
+  - seqkit # format conversion and stats reporting

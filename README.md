@@ -1,5 +1,5 @@
-# genetic_analysis_practical
+# Genetic Analysis Bioinformatics practical
 
-go here to get to the jupyterhub:
+Go here to get to the jupyterhub:
 
 https://jupyterhub.hull.ac.uk/user/USERID/lab

@@ -2,4 +2,4 @@
 
 go here to get to the jupyterhub:
 
-https://jupyterhub.hull.ac.uk/user/username/lab
+https://jupyterhub.hull.ac.uk/user/USERID/lab

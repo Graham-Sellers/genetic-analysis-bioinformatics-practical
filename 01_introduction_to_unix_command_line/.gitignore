@@ -1,6 +1,7 @@
 *
+.ipynb_checkpoints/
 
 !.gitignore
-!intro_to_unix_command_line.ipynb
 !images/
+!intro_to_unix_command_line.ipynb
 !data/

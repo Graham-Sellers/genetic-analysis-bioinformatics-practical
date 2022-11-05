@@ -1,7 +1,8 @@
 *
+.ipynb_checkpoints/
 
 !.gitignore
-!R_analysis.ipynb
 !images/
+!R_analysis.ipynb
 !data/
 !functions/

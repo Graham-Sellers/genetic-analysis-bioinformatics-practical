@@ -1,1 +1,8 @@
-.ipynb_checkpoints/
+*
+
+!.gitignore
+!ONT_sequencing_data_analysis.ipynb
+!images/
+!data/
+!bact_db/
+!scripts/

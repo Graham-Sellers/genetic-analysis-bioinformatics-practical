@@ -1,2 +1,7 @@
-.ipynb_checkpoints/
-.Rhistory
+*
+
+!.gitignore
+!R_analysis.ipynb
+!images/
+!data/
+!functions/

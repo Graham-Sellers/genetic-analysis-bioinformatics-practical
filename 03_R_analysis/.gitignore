@@ -1,0 +1,9 @@
+*
+.ipynb_checkpoints/
+
+!.gitignore
+!images/
+!R_analysis.ipynb
+!data/
+!functions/
+!plots/

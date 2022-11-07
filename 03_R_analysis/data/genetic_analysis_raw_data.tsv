@@ -1,0 +1,768 @@
+#OTU_ID	LL1	LL2	LL3	LR1	LR2	LR3	AL1	AL2	AL3	AR1	AR2	AR3	taxonomy
+Alloacidobacterium_dinghuense	0	0	0	0	0	0	0	0	0	0	1	0	d__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Acidobacteriaceae; g__Alloacidobacterium; s__Alloacidobacterium_dinghuense
+Terriglobus_albidus	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Acidobacteriaceae; g__Terriglobus; s__Terriglobus_albidus
+Candidatus_Solibacter	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Bryobacterales; f__Solibacteraceae; g__Candidatus; s__Solibacter
+Luteitalea_pratensis	0	5	0	0	0	0	0	0	1	0	3	0	d__Bacteria; p__Acidobacteria; c__Vicinamibacteria; o__Vicinamibacterales; f__Vicinamibacteraceae; g__Luteitalea; s__Luteitalea_pratensis
+Actinomarinicola_tropica	0	0	0	0	0	0	0	1	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__Iamiaceae; g__Actinomarinicola; s__Actinomarinicola_tropica
+Ilumatobacter_coccineus	0	3	0	0	0	0	1	0	0	1	0	0	d__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__Ilumatobacteraceae; g__Ilumatobacter; s__Ilumatobacter_coccineus
+Actinomyces_naeslundii	0	0	0	0	0	0	0	0	0	0	0	2	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__Actinomyces_naeslundii
+Pauljensenia_hongkongensis	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Actinomycetales; f__Actinomycetaceae; g__Pauljensenia; s__Pauljensenia_hongkongensis
+Schaalia_odontolytica	0	0	0	0	0	1	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Actinomycetales; f__Actinomycetaceae; g__Schaalia; s__Schaalia_odontolytica
+Corynebacterium_aurimucosum	1	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium; s__Corynebacterium_aurimucosum
+Corynebacterium_doosanense	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium; s__Corynebacterium_doosanense
+Corynebacterium_imitans	0	0	0	0	2	0	0	0	0	1	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium; s__Corynebacterium_imitans
+Corynebacterium_jeikeium	0	0	0	0	0	2	0	0	0	1	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium; s__Corynebacterium_jeikeium
+Corynebacterium_lizhenjunii	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium; s__Corynebacterium_lizhenjunii
+Corynebacterium_matruchotii	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium; s__Corynebacterium_matruchotii
+Corynebacterium_mustelae	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium; s__Corynebacterium_mustelae
+Corynebacterium_segmentosum	0	0	0	0	0	0	0	0	1	1	3	3	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium; s__Corynebacterium_segmentosum
+Corynebacterium_singulare	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium; s__Corynebacterium_singulare
+Corynebacterium_ulcerans	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium; s__Corynebacterium_ulcerans
+Corynebacterium_ureicelerivorans	0	0	0	0	0	3	0	0	1	0	1	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium; s__Corynebacterium_ureicelerivorans
+Lawsonella_clevelandensis	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Lawsonellaceae; g__Lawsonella; s__Lawsonella_clevelandensis
+Brevibacterium_casei	1	0	0	0	0	0	0	0	0	0	1	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Brevibacteriaceae; g__Brevibacterium; s__Brevibacterium_casei
+Brevibacterium_linens	0	0	1	0	0	0	0	0	0	2	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Brevibacteriaceae; g__Brevibacterium; s__Brevibacterium_linens
+Brachybacterium_saurashtrense	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Dermabacteraceae; g__Brachybacterium; s__Brachybacterium_saurashtrense
+Dermabacter_vaginalis	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Dermabacteraceae; g__Dermabacter; s__Dermabacter_vaginalis
+Luteipulveratus_mongoliensis	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Dermacoccaceae; g__Luteipulveratus; s__Luteipulveratus_mongoliensis
+Janibacter_limosus	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Intrasporangiaceae; g__Janibacter; s__Janibacter_limosus
+Kytococcus_sedentarius	1	0	0	0	0	0	0	0	0	0	0	3	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Kytococcaceae; g__Kytococcus; s__Kytococcus_sedentarius
+Aurantimicrobium_photophilum	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Microbacteriaceae; g__Aurantimicrobium; s__Aurantimicrobium_photophilum
+Clavibacter_michiganensis	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Microbacteriaceae; g__Clavibacter; s__Clavibacter_michiganensis
+Gryllotalpicola_protaetiae	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Microbacteriaceae; g__Gryllotalpicola; s__Gryllotalpicola_protaetiae
+Arthrobacter_agilis	0	0	1	0	1	0	0	0	0	2	0	3	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae; g__Arthrobacter; s__Arthrobacter_agilis
+Arthrobacter_alpinus	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae; g__Arthrobacter; s__Arthrobacter_alpinus
+Glutamicibacter_creatinolyticus	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae; g__Glutamicibacter; s__Glutamicibacter_creatinolyticus
+Kocuria_palustris	0	7	1	0	0	0	0	0	5	0	2	23	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae; g__Kocuria; s__Kocuria_palustris
+Kocuria_rosea	1	0	0	1	0	0	0	0	1	1	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae; g__Kocuria; s__Kocuria_rosea
+Micrococcus_luteus	1	0	0	1	0	0	0	0	0	9	6	21	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae; g__Micrococcus; s__Micrococcus_luteus
+Rothia_aeria	0	0	0	0	0	0	0	0	5	0	0	10	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae; g__Rothia; s__Rothia_aeria
+Rothia_dentocariosa	0	1	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae; g__Rothia; s__Rothia_dentocariosa
+Rothia_mucilaginosa	3	4	0	0	0	0	0	0	1	0	1	6	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae; g__Rothia; s__Rothia_mucilaginosa
+Friedmanniella_luteola	0	0	0	0	0	0	0	0	0	0	0	2	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Propionibacteriales; f__Nocardioidaceae; g__Friedmanniella; s__Friedmanniella_luteola
+Micropruina_glycogenica	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Propionibacteriales; f__Nocardioidaceae; g__Micropruina; s__Micropruina_glycogenica
+Arachnia_propionica	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Propionibacteriales; f__Propionibacteriaceae; g__Arachnia; s__Arachnia_propionica
+Cutibacterium_acnes	9	25	12	2	0	1	14	121	156	8	28	540	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Propionibacteriales; f__Propionibacteriaceae; g__Cutibacterium; s__Cutibacterium_acnes
+Cutibacterium_avidum	0	0	0	0	0	0	1	0	0	0	1	2	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Propionibacteriales; f__Propionibacteriaceae; g__Cutibacterium; s__Cutibacterium_avidum
+Cutibacterium_granulosum	1	1	3	0	0	0	2	16	4	0	0	32	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Propionibacteriales; f__Propionibacteriaceae; g__Cutibacterium; s__Cutibacterium_granulosum
+Microlunatus_phosphovorus	0	2	1	0	0	0	0	0	0	2	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Propionibacteriales; f__Propionibacteriaceae; g__Microlunatus; s__Microlunatus_phosphovorus
+Microlunatus_sagamiharensis	0	0	1	0	0	0	1	0	0	2	0	2	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Propionibacteriales; f__Propionibacteriaceae; g__Microlunatus; s__Microlunatus_sagamiharensis
+Lancefieldella_parvula	0	1	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Atopobiaceae; g__Lancefieldella; s__Lancefieldella_parvula
+Collinsella_aerofaciens	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Collinsella; s__Collinsella_aerofaciens
+Rubrobacter_tropicus	0	0	0	4	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__Rubrobacter_tropicus
+Fimbriimonas_ginsengisoli	0	0	0	0	0	0	0	0	0	0	0	2	d__Bacteria; p__Armatimonadetes; c__Fimbriimonadia; o__Fimbriimonadales; f__Fimbriimonadaceae; g__Fimbriimonas; s__Fimbriimonas_ginsengisoli
+Bacteroides_heparinolyticus	0	0	0	0	0	0	0	0	0	1	4	0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__Bacteroides_heparinolyticus
+Phocaeicola_vulgatus	0	0	0	0	0	0	0	0	0	1	0	1	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Phocaeicola; s__Phocaeicola_vulgatus
+Petrimonas_mucosa	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Dysgonomonadaceae; g__Petrimonas; s__Petrimonas_mucosa
+Porphyromonas_asaccharolytica	1	1	2	0	5	2	8	8	1	56	39	1	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__Porphyromonas_asaccharolytica
+Porphyromonas_cangingivalis	0	1	27	4	0	0	11	5	4	95	37	6	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__Porphyromonas_cangingivalis
+Porphyromonas_crevioricanis	0	0	0	0	0	0	1	1	1	18	3	1	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__Porphyromonas_crevioricanis
+Porphyromonas_gingivalis	0	1	25	8	0	1	25	9	18	224	66	17	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__Porphyromonas_gingivalis
+Prevotella_denticola	1	3	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__Prevotella_denticola
+Prevotella_enoeca	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__Prevotella_enoeca
+Prevotella_fusca	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__Prevotella_fusca
+Prevotella_intermedia	0	0	0	0	0	0	0	0	4	2	1	14	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__Prevotella_intermedia
+Prevotella_melaninogenica	0	0	0	0	0	0	2	0	6	0	0	8	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__Prevotella_melaninogenica
+Prevotella_oris	0	0	0	0	0	0	0	0	0	0	0	4	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__Prevotella_oris
+Pseudoprevotella_muciniphila	0	0	0	0	0	0	0	0	0	1	0	1	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Pseudoprevotella; s__Pseudoprevotella_muciniphila
+Tannerella_forsythia	0	0	0	0	0	0	1	3	1	20	4	1	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Tannerellaceae; g__Tannerella; s__Tannerella_forsythia
+Tannerella_serpentiformis	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Tannerellaceae; g__Tannerella; s__Tannerella_serpentiformis
+Arachidicoccus_soli	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Chitinophagia; o__Chitinophagales; f__Chitinophagaceae; g__Arachidicoccus; s__Arachidicoccus_soli
+Chitinophaga_pinensis	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Bacteroidota; c__Chitinophagia; o__Chitinophagales; f__Chitinophagaceae; g__Chitinophaga; s__Chitinophaga_pinensis
+Flavisolibacter_ginsenosidimutans	0	0	1	0	1	0	1	1	0	3	0	0	d__Bacteria; p__Bacteroidota; c__Chitinophagia; o__Chitinophagales; f__Chitinophagaceae; g__Flavisolibacter; s__Flavisolibacter_ginsenosidimutans
+Flavisolibacter_tropicus	1	0	0	0	6	0	0	1	0	0	1	1	d__Bacteria; p__Bacteroidota; c__Chitinophagia; o__Chitinophagales; f__Chitinophagaceae; g__Flavisolibacter; s__Flavisolibacter_tropicus
+Niabella_soli	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Chitinophagia; o__Chitinophagales; f__Chitinophagaceae; g__Niabella; s__Niabella_soli
+Panacibacter_ginsenosidivorans	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Chitinophagia; o__Chitinophagales; f__Chitinophagaceae; g__Panacibacter; s__Panacibacter_ginsenosidivorans
+Paraflavitalea_soli	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Chitinophagia; o__Chitinophagales; f__Chitinophagaceae; g__Paraflavitalea; s__Paraflavitalea_soli
+Phnomibacter_ginsenosidimutans	0	0	4	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Chitinophagia; o__Chitinophagales; f__Chitinophagaceae; g__Phnomibacter; s__Phnomibacter_ginsenosidimutans
+Pseudobacter_ginsenosidimutans	0	0	0	0	0	0	0	1	1	0	0	0	d__Bacteria; p__Bacteroidota; c__Chitinophagia; o__Chitinophagales; f__Chitinophagaceae; g__Pseudobacter; s__Pseudobacter_ginsenosidimutans
+Pseudocnuella_soli	0	1	0	0	0	1	0	0	0	2	0	0	d__Bacteria; p__Bacteroidota; c__Chitinophagia; o__Chitinophagales; f__Chitinophagaceae; g__Pseudocnuella; s__Pseudocnuella_soli
+Rhodocytophaga_rosea	0	0	0	0	0	0	2	1	1	1	1	1	d__Bacteria; p__Bacteroidota; c__Cytophagia; o__Cytophagales; f__Cytophagaceae; g__Rhodocytophaga; s__Rhodocytophaga_rosea
+Spirosoma_rigui	1	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Cytophagia; o__Cytophagales; f__Cytophagaceae; g__Spirosoma; s__Spirosoma_rigui
+Chryseolinea_soli	0	1	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Bacteroidota; c__Cytophagia; o__Cytophagales; f__Fulvivirgaceae; g__Chryseolinea; s__Chryseolinea_soli
+Adhaeribacter_radiodurans	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Cytophagia; o__Cytophagales; f__Hymenobacteraceae; g__Adhaeribacter; s__Adhaeribacter_radiodurans
+Adhaeribacter_swui	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Cytophagia; o__Cytophagales; f__Hymenobacteraceae; g__Adhaeribacter; s__Adhaeribacter_swui
+Hymenobacter_qilianensis	0	0	0	0	0	0	0	1	0	0	0	2	d__Bacteria; p__Bacteroidota; c__Cytophagia; o__Cytophagales; f__Hymenobacteraceae; g__Hymenobacter; s__Hymenobacter_qilianensis
+Hymenobacter_russus	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Bacteroidota; c__Cytophagia; o__Cytophagales; f__Hymenobacteraceae; g__Hymenobacter; s__Hymenobacter_russus
+Dyadobacter_fermentans	0	0	0	0	0	0	0	0	0	0	0	3	d__Bacteria; p__Bacteroidota; c__Cytophagia; o__Cytophagales; f__Spirosomaceae; g__Dyadobacter; s__Dyadobacter_fermentans
+Capnocytophaga_canimorsus	0	0	0	0	0	0	2	0	0	16	5	2	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__Capnocytophaga_canimorsus
+Capnocytophaga_cynodegmi	0	0	0	0	0	0	0	0	2	3	3	0	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__Capnocytophaga_cynodegmi
+Capnocytophaga_endodontalis	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__Capnocytophaga_endodontalis
+Capnocytophaga_gingivalis	5	7	0	0	0	0	7	1	33	2	2	32	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__Capnocytophaga_gingivalis
+Capnocytophaga_leadbetteri	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__Capnocytophaga_leadbetteri
+Capnocytophaga_sputigena	0	0	0	0	0	0	0	0	4	1	0	6	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__Capnocytophaga_sputigena
+Capnocytophaga_stomatis	0	0	0	0	0	0	0	0	0	0	1	1	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__Capnocytophaga_stomatis
+Flavobacterium_nackdongense	0	0	0	0	0	0	0	0	1	0	0	1	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae; g__Flavobacterium; s__Flavobacterium_nackdongense
+Flavobacterium_pallidum	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae; g__Flavobacterium; s__Flavobacterium_pallidum
+Bergeyella_cardium	0	0	0	0	0	0	1	0	0	1	0	1	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Weeksellaceae; g__Bergeyella; s__Bergeyella_cardium
+Chryseobacterium_balustinum	0	0	0	0	0	0	0	0	2	0	0	0	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Weeksellaceae; g__Chryseobacterium; s__Chryseobacterium_balustinum
+Chryseobacterium_glaciei	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Weeksellaceae; g__Chryseobacterium; s__Chryseobacterium_glaciei
+Chryseobacterium_taklimakanense	0	0	0	0	0	1	0	0	0	0	0	1	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Weeksellaceae; g__Chryseobacterium; s__Chryseobacterium_taklimakanense
+Cloacibacterium_normanense	0	0	0	18	0	0	0	0	0	0	0	1	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Weeksellaceae; g__Cloacibacterium; s__Cloacibacterium_normanense
+Kaistella_flava	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Weeksellaceae; g__Kaistella; s__Kaistella_flava
+Riemerella_anatipestifer	0	0	0	0	0	0	0	1	0	16	2	0	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Weeksellaceae; g__Riemerella; s__Riemerella_anatipestifer
+Weeksella_virosa	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Weeksellaceae; g__Weeksella; s__Weeksella_virosa
+Pedobacter_cryoconitis	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Sphingobacteriia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Pedobacter; s__Pedobacter_cryoconitis
+Sphingobacterium_daejeonense	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Bacteroidota; c__Sphingobacteriia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Sphingobacterium; s__Sphingobacterium_daejeonense
+Sphingobacterium_lactis	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Bacteroidota; c__Sphingobacteriia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Sphingobacterium; s__Sphingobacterium_lactis
+Sphingobacterium_psychroaquaticum	0	0	0	0	0	0	0	0	1	1	0	0	d__Bacteria; p__Bacteroidota; c__Sphingobacteriia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Sphingobacterium; s__Sphingobacterium_psychroaquaticum
+Candidatus_Nanosynbacter	0	0	0	0	0	0	1	0	2	6	5	3	d__Bacteria; p__Candidatus; c__Saccharibacteria; o__Candidatus; f__Saccharimonadia; g__Candidatus; s__Nanosynbacterales
+Candidatus_Saccharimonas	0	1	0	0	0	0	0	0	3	4	0	3	d__Bacteria; p__Candidatus; c__Saccharibacteria; o__Candidatus; f__Saccharimonadia; g__Candidatus; s__Saccharimonadales
+Desulfurispirillum_indicum	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Chrysiogenetes; c__Chrysiogenetes; o__Chrysiogenales; f__Chrysiogenaceae; g__Desulfurispirillum; s__Desulfurispirillum_indicum
+Dolichospermum_compactum	0	1	0	0	0	0	1	0	0	0	1	1	d__Bacteria; p__Cyanobacteria; c__unknown; o__Nostocales; f__Aphanizomenonaceae; g__Dolichospermum; s__Dolichospermum_compactum
+Nostoc_edaphicum	0	0	0	0	0	2	0	0	0	0	0	0	d__Bacteria; p__Cyanobacteria; c__unknown; o__Nostocales; f__Nostocaceae; g__Nostoc; s__Nostoc_edaphicum
+Nostoc_flagelliforme	0	0	0	0	0	12	0	0	0	1	0	0	d__Bacteria; p__Cyanobacteria; c__unknown; o__Nostocales; f__Nostocaceae; g__Nostoc; s__Nostoc_flagelliforme
+Moorena_producens	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Cyanobacteria; c__unknown; o__Oscillatoriales; f__Oscillatoriaceae; g__Moorena; s__Moorena_producens
+Oscillatoria_nigro-viridis	0	0	5	1	0	0	0	0	0	0	2	0	d__Bacteria; p__Cyanobacteria; c__unknown; o__Oscillatoriales; f__Oscillatoriaceae; g__Oscillatoria; s__Oscillatoria_nigro-viridis
+Leptolyngbya_boryana	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Cyanobacteria; c__unknown; o__Pseudanabaenales; f__Leptolyngbyaceae; g__Leptolyngbya; s__Leptolyngbya_boryana
+Deinococcus_geothermalis	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Deinococcus-Thermus; c__Deinococci; o__Deinococcales; f__Deinococcaceae; g__Deinococcus; s__Deinococcus_geothermalis
+Deinococcus_gobiensis	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Deinococcus-Thermus; c__Deinococci; o__Deinococcales; f__Deinococcaceae; g__Deinococcus; s__Deinococcus_gobiensis
+Deinococcus_proteolyticus	0	0	0	0	0	0	1	0	0	1	0	0	d__Bacteria; p__Deinococcus-Thermus; c__Deinococci; o__Deinococcales; f__Deinococcaceae; g__Deinococcus; s__Deinococcus_proteolyticus
+Deinococcus_puniceus	1	0	0	5	0	0	2	1	0	2	4	3	d__Bacteria; p__Deinococcus-Thermus; c__Deinococci; o__Deinococcales; f__Deinococcaceae; g__Deinococcus; s__Deinococcus_puniceus
+Truepera_radiovictrix	1	7	5	2	13	2	3	2	3	2	3	4	d__Bacteria; p__Deinococcus-Thermus; c__Deinococci; o__Trueperales; f__Trueperaceae; g__Truepera; s__Truepera_radiovictrix
+Aeribacillus_pallidus	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Aeribacillus; s__Aeribacillus_pallidus
+Bacillus_anthracis	0	0	1	0	0	0	1	0	0	0	0	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__Bacillus_anthracis
+Bacillus_cereus	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__Bacillus_cereus
+Bacillus_haynesii	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__Bacillus_haynesii
+Bacillus_smithii	0	0	0	0	0	0	0	1	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__Bacillus_smithii
+Bacillus_subtilis	0	0	0	1	0	0	0	0	0	1	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__Bacillus_subtilis
+Bacillus_thuringiensis	0	1	0	0	1	0	1	0	0	1	1	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__Bacillus_thuringiensis
+Bacillus_velezensis	0	0	0	0	0	0	0	0	0	1	0	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__Bacillus_velezensis
+Caldibacillus_thermoamylovorans	0	0	4	3	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Caldibacillus; s__Caldibacillus_thermoamylovorans
+Oceanobacillus_kimchii	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Oceanobacillus; s__Oceanobacillus_kimchii
+Weizmannia_coagulans	0	0	0	4	0	0	0	0	1	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Weizmannia; s__Weizmannia_coagulans
+Brochothrix_thermosphacta	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Listeriaceae; g__Brochothrix; s__Brochothrix_thermosphacta
+Brevibacillus_marinus	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Paenibacillaceae; g__Brevibacillus; s__Brevibacillus_marinus
+Paenibacillus_psychroresistens	0	0	0	0	0	0	0	0	0	0	0	2	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Paenibacillaceae; g__Paenibacillus; s__Paenibacillus_psychroresistens
+Saccharibacillus_brassicae	0	2	0	0	0	0	0	1	1	0	0	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Paenibacillaceae; g__Saccharibacillus; s__Saccharibacillus_brassicae
+Kurthia_zopfii	0	0	1	0	0	0	1	0	1	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Planococcaceae; g__Kurthia; s__Kurthia_zopfii
+Paenisporosarcina_antarctica	1	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Planococcaceae; g__Paenisporosarcina; s__Paenisporosarcina_antarctica
+Planococcus_glaciei	1	3	7	3	0	0	1	2	0	0	0	23	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Planococcaceae; g__Planococcus; s__Planococcus_glaciei
+Sporosarcina_ureae	0	5	0	0	0	0	1	0	1	0	1	5	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Planococcaceae; g__Sporosarcina; s__Sporosarcina_ureae
+Sporosarcina_ureilytica	0	4	0	0	0	0	0	0	0	0	0	2	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Planococcaceae; g__Sporosarcina; s__Sporosarcina_ureilytica
+Ureibacillus_thermosphaericus	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Planococcaceae; g__Ureibacillus; s__Ureibacillus_thermosphaericus
+Abyssicoccus_albus	0	0	0	2	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Abyssicoccus; s__Abyssicoccus_albus
+Jeotgalicoccus_saudimassiliensis	3	15	17	5	21	18	3	10	12	10	25	56	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Jeotgalicoccus; s__Jeotgalicoccus_saudimassiliensis
+Mammaliicoccus_fleurettii	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Mammaliicoccus; s__Mammaliicoccus_fleurettii
+Staphylococcus_aureus	92	68	25	105	145	26	9	202	80	25	22	54	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_aureus
+Staphylococcus_auricularis	832	303	0	0	0	1	0	0	1	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_auricularis
+Staphylococcus_capitis	1	5	1	0	0	0	1	1	3	6	5	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_capitis
+Staphylococcus_caprae	0	3	1	5	5	1	0	10	2	0	2	4	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_caprae
+Staphylococcus_cohnii	0	0	0	2	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_cohnii
+Staphylococcus_condimenti	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_condimenti
+Staphylococcus_epidermidis	31	25	0	16	15	3	3	33	11	2	1	3	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_epidermidis
+Staphylococcus_haemolyticus	2	3	3	0	1	0	0	1	4	0	1	2	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_haemolyticus
+Staphylococcus_hominis	19	64	41	25	58	38	10	15	112	14	20	24	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_hominis
+Staphylococcus_lugdunensis	0	0	0	0	0	0	0	0	1	0	0	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_lugdunensis
+Staphylococcus_nepalensis	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_nepalensis
+Staphylococcus_pasteuri	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_pasteuri
+Staphylococcus_pettenkoferi	2	1	0	0	0	4	1	1	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_pettenkoferi
+Staphylococcus_pseudintermedius	8	4	3	0	5	2	1	10	5	12	1	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_pseudintermedius
+Staphylococcus_saprophyticus	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_saprophyticus
+Staphylococcus_simiae	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_simiae
+Staphylococcus_simulans	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_simulans
+Staphylococcus_warneri	2	2	2	0	1	4	0	4	1	0	1	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_warneri
+Staphylococcus_xylosus	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus_xylosus
+Novibacillus_thermophilus	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Thermoactinomycetaceae; g__Novibacillus; s__Novibacillus_thermophilus
+Exiguobacterium_mexicanum	0	0	0	0	0	0	0	0	0	1	0	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__unknown; g__Exiguobacterium; s__Exiguobacterium_mexicanum
+Gemella_haemolysans	14	19	0	0	0	3	1	2	1	4	10	12	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__unknown; g__Gemella; s__Gemella_haemolysans
+Gemella_morbillorum	0	7	4	0	0	0	3	1	9	0	3	5	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__unknown; g__Gemella; s__Gemella_morbillorum
+Gemella_sanguinis	1	6	0	0	0	1	3	9	11	4	8	4	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__unknown; g__Gemella; s__Gemella_sanguinis
+Abiotrophia_defectiva	2	7	6	1	14	5	14	22	21	33	71	21	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Aerococcaceae; g__Abiotrophia; s__Abiotrophia_defectiva
+Aerococcus_christensenii	0	0	0	0	0	0	0	2	3	0	0	2	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Aerococcaceae; g__Aerococcus; s__Aerococcus_christensenii
+Suicoccus_acidiformans	0	15	7	1	14	3	1	0	6	2	2	4	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Aerococcaceae; g__Suicoccus; s__Suicoccus_acidiformans
+Carnobacterium_divergens	0	0	0	0	0	0	1	0	0	0	12	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Carnobacterium; s__Carnobacterium_divergens
+Carnobacterium_inhibens	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Carnobacterium; s__Carnobacterium_inhibens
+Carnobacterium_maltaromaticum	0	0	0	1	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Carnobacterium; s__Carnobacterium_maltaromaticum
+Dolosigranulum_pigrum	30	23	31	18	19	15	45	430	1293	56	691	1563	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Dolosigranulum; s__Dolosigranulum_pigrum
+Jeotgalibaca_ciconiae	0	0	0	0	0	1	0	0	0	0	1	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Jeotgalibaca; s__Jeotgalibaca_ciconiae
+Jeotgalibaca_dankookensis	0	0	0	0	0	0	0	0	2	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Jeotgalibaca; s__Jeotgalibaca_dankookensis
+Jeotgalibaca_porci	0	0	0	0	0	1	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Jeotgalibaca; s__Jeotgalibaca_porci
+Enterococcus_cecorum	0	0	0	95	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus; s__Enterococcus_cecorum
+Enterococcus_faecalis	0	3	2	1	1	0	0	0	0	3	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus; s__Enterococcus_faecalis
+Enterococcus_saigonensis	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus; s__Enterococcus_saigonensis
+Vagococcus_hydrophili	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Vagococcus; s__Vagococcus_hydrophili
+Lacticaseibacillus_rhamnosus	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lacticaseibacillus; s__Lacticaseibacillus_rhamnosus
+Lactobacillus_crispatus	9	34	40	5	20	17	2	2	4	5	4	4	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__Lactobacillus_crispatus
+Lactobacillus_delbrueckii	0	0	0	0	0	0	0	1	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__Lactobacillus_delbrueckii
+Lactobacillus_helveticus	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__Lactobacillus_helveticus
+Lactobacillus_iners	33	62	50	68	54	15	8	9	276	41	52	50	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__Lactobacillus_iners
+Lactobacillus_jensenii	3	2	4	10	0	4	2	1	11	1	5	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__Lactobacillus_jensenii
+Leuconostoc_carnosum	0	0	0	0	0	0	1	0	0	1	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Leuconostoc; s__Leuconostoc_carnosum
+Leuconostoc_gelidum	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Leuconostoc; s__Leuconostoc_gelidum
+Levilactobacillus_brevis	0	0	0	0	0	0	0	1	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Levilactobacillus; s__Levilactobacillus_brevis
+Ligilactobacillus_salivarius	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Ligilactobacillus; s__Ligilactobacillus_salivarius
+Weissella_cibaria	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Weissella; s__Weissella_cibaria
+Lactococcus_cremoris	0	23	0	0	0	0	1	0	0	0	3	4	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Lactococcus; s__Lactococcus_cremoris
+Lactococcus_lactis	0	34	2	0	0	2	0	1	4	5	14	13	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Lactococcus; s__Lactococcus_lactis
+Lactococcus_raffinolactis	0	0	0	0	0	0	0	0	0	0	2	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Lactococcus; s__Lactococcus_raffinolactis
+Streptococcus_acidominimus	1	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus_acidominimus
+Streptococcus_agalactiae	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus_agalactiae
+Streptococcus_canis	1	1	8	0	3	0	10	1	3	35	5	2	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus_canis
+Streptococcus_cristatus	1	1	0	0	0	0	5	4	1	0	0	3	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus_cristatus
+Streptococcus_gordonii	0	0	0	0	0	0	1	0	0	0	0	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus_gordonii
+Streptococcus_lutetiensis	0	0	0	0	0	0	0	0	0	1	2	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus_lutetiensis
+Streptococcus_mitis	2	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus_mitis
+Streptococcus_oralis	2	0	0	0	0	0	2	1	2	1	4	5	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus_oralis
+Streptococcus_parasanguinis	1	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus_parasanguinis
+Streptococcus_pneumoniae	2	0	0	0	0	0	0	0	0	1	2	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus_pneumoniae
+Streptococcus_pyogenes	0	0	0	0	0	0	1	2	0	0	2	2	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus_pyogenes
+Streptococcus_salivarius	2	0	0	0	0	0	1	0	0	0	0	2	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus_salivarius
+Streptococcus_sanguinis	1	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus_sanguinis
+Streptococcus_suis	0	0	1	0	0	0	4	2	2	8	3	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus_suis
+Streptococcus_thermophilus	0	1	0	0	0	4	0	0	1	0	0	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus_thermophilus
+Candidatus Arthromitus	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Clostridiaceae; g__Candidatus; s__Arthromitus
+Clostridium_manihotivorum	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Clostridiaceae; g__Clostridium; s__Clostridium_manihotivorum
+Clostridium_perfringens	2	1	2	0	0	0	5	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Clostridiaceae; g__Clostridium; s__Clostridium_perfringens
+Clostridium_saccharobutylicum	0	0	0	0	0	2	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Clostridiaceae; g__Clostridium; s__Clostridium_saccharobutylicum
+Aminipila	0	3	0	0	0	0	0	0	1	2	1	1	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Eubacteriales; g__Family; s__XIII.
+Eubacteriales Family XIII. Incertae Sedis	0	0	0	0	0	0	0	1	1	3	3	1	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Eubacteriales; g__Family; s__XIII.
+Mogibacterium	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Eubacteriales; g__Family; s__XIII.
+Mogibacterium_diversum	0	12	0	0	0	0	0	0	1	0	0	1	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Eubacteriales; g__Family; s__XIII.
+Anaerocolumna_cellulosilytica	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Lachnospiraceae; g__Anaerocolumna; s__Anaerocolumna_cellulosilytica
+Blautia_hansenii	1	0	0	0	0	0	0	0	2	2	1	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Lachnospiraceae; g__Blautia; s__Blautia_hansenii
+Cellulosilyticum_lentocellum	1	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Lachnospiraceae; g__Cellulosilyticum; s__Cellulosilyticum_lentocellum
+Herbinix_luporum	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Lachnospiraceae; g__Herbinix; s__Herbinix_luporum
+Lachnoanaerobaculum_umeaense	0	0	0	0	0	0	0	0	8	0	0	1	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Lachnospiraceae; g__Lachnoanaerobaculum; s__Lachnoanaerobaculum_umeaense
+[Ruminococcus]_gnavus	2	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Lachnospiraceae; g__Mediterraneibacter; s__[Ruminococcus]_gnavus
+Ethanoligenens_harbinense	0	0	0	3	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Oscillospiraceae; g__Ethanoligenens; s__Ethanoligenens_harbinense
+Faecalibacterium_prausnitzii	0	0	0	26	0	0	1	0	2	0	0	1	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Oscillospiraceae; g__Faecalibacterium; s__Faecalibacterium_prausnitzii
+Fastidiosipila_sanguinis	0	0	2	6	5	0	1	0	0	4	4	1	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Oscillospiraceae; g__Fastidiosipila; s__Fastidiosipila_sanguinis
+Mageeibacillus_indolicus	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Oscillospiraceae; g__Mageeibacillus; s__Mageeibacillus_indolicus
+Ruminococcus_champanellensis	0	0	0	0	0	1	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Oscillospiraceae; g__Ruminococcus; s__Ruminococcus_champanellensis
+Ruthenibacterium_lactatiformans	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Oscillospiraceae; g__Ruthenibacterium; s__Ruthenibacterium_lactatiformans
+Acetoanaerobium_sticklandii	0	1	0	0	0	0	0	0	0	3	0	2	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Peptostreptococcaceae; g__Acetoanaerobium; s__Acetoanaerobium_sticklandii
+Clostridioides_difficile	0	0	1	0	1	0	1	1	0	1	1	1	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Peptostreptococcaceae; g__Clostridioides; s__Clostridioides_difficile
+Filifactor_alocis	1	17	12	17	0	1	7	17	11	31	47	7	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Peptostreptococcaceae; g__Filifactor; s__Filifactor_alocis
+Peptacetobacter_hiranonis	1	0	3	0	0	10	1	2	4	0	0	1	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Peptostreptococcaceae; g__Peptacetobacter; s__Peptacetobacter_hiranonis
+Romboutsia_ilealis	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Peptostreptococcaceae; g__Romboutsia; s__Romboutsia_ilealis
+Intestinimonas_butyriciproducens	0	0	0	0	0	0	0	1	0	1	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__unknown; g__Intestinimonas; s__Intestinimonas_butyriciproducens
+Intestinibaculum_porci	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Erysipelotrichia; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Intestinibaculum; s__Intestinibaculum_porci
+Megamonas_funiformis	0	2	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Selenomonadales; f__Selenomonadaceae; g__Megamonas; s__Megamonas_funiformis
+Selenomonas_sputigena	0	0	0	0	0	0	0	0	0	0	2	1	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Selenomonadales; f__Selenomonadaceae; g__Selenomonas; s__Selenomonas_sputigena
+Selenomonas_timonae	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Selenomonadales; f__Selenomonadaceae; g__Selenomonas; s__Selenomonas_timonae
+Dialister_pneumosintes	0	0	0	0	0	0	0	1	0	0	0	0	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Veillonellales; f__Veillonellaceae; g__Dialister; s__Dialister_pneumosintes
+Megasphaera_stantonii	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Veillonellales; f__Veillonellaceae; g__Megasphaera; s__Megasphaera_stantonii
+Veillonella_atypica	0	1	0	0	0	0	0	0	1	0	0	2	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Veillonellales; f__Veillonellaceae; g__Veillonella; s__Veillonella_atypica
+Veillonella_parvula	6	6	0	0	0	0	7	3	34	0	4	25	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Veillonellales; f__Veillonellaceae; g__Veillonella; s__Veillonella_parvula
+Anaerococcus_mediterraneensis	3	24	6	9	18	19	3	73	25	10	12	34	d__Bacteria; p__Firmicutes; c__Tissierellia; o__Tissierellales; f__Peptoniphilaceae; g__Anaerococcus; s__Anaerococcus_mediterraneensis
+Anaerococcus_prevotii	25	128	104	70	118	99	22	56	106	30	59	60	d__Bacteria; p__Firmicutes; c__Tissierellia; o__Tissierellales; f__Peptoniphilaceae; g__Anaerococcus; s__Anaerococcus_prevotii
+Finegoldia_magna	25	121	116	37	89	88	22	15	47	41	54	46	d__Bacteria; p__Firmicutes; c__Tissierellia; o__Tissierellales; f__Peptoniphilaceae; g__Finegoldia; s__Finegoldia_magna
+Murdochiella_vaginalis	0	0	3	0	0	0	0	0	0	0	1	1	d__Bacteria; p__Firmicutes; c__Tissierellia; o__Tissierellales; f__Peptoniphilaceae; g__Murdochiella; s__Murdochiella_vaginalis
+Parvimonas_micra	2	0	24	10	0	7	17	21	18	50	37	13	d__Bacteria; p__Firmicutes; c__Tissierellia; o__Tissierellales; f__Peptoniphilaceae; g__Parvimonas; s__Parvimonas_micra
+Peptoniphilus_harei	16	39	40	36	54	56	10	17	22	28	35	25	d__Bacteria; p__Firmicutes; c__Tissierellia; o__Tissierellales; f__Peptoniphilaceae; g__Peptoniphilus; s__Peptoniphilus_harei
+Peptoniphilus_ivorii	3	14	22	7	6	5	1	4	4	8	11	10	d__Bacteria; p__Firmicutes; c__Tissierellia; o__Tissierellales; f__Peptoniphilaceae; g__Peptoniphilus; s__Peptoniphilus_ivorii
+Ezakiella_massiliensis	1	29	24	13	6	11	3	10	4	17	13	13	d__Bacteria; p__Firmicutes; c__Tissierellia; o__unknown; f__unknown; g__Ezakiella; s__Ezakiella_massiliensis
+Ndongobacter_massiliensis	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Firmicutes; c__unknown; o__unknown; f__unknown; g__Ndongobacter; s__Ndongobacter_massiliensis
+Fusobacterium_gonidiaformans	0	0	0	0	0	0	0	1	0	0	0	0	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__Fusobacterium_gonidiaformans
+Fusobacterium_hwasookii	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__Fusobacterium_hwasookii
+Fusobacterium_mortiferum	0	0	0	0	0	0	1	0	0	0	0	1	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__Fusobacterium_mortiferum
+Fusobacterium_nucleatum	4	5	7	6	0	2	3	4	6	57	3	18	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__Fusobacterium_nucleatum
+Fusobacterium_ulcerans	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__Fusobacterium_ulcerans
+Leptotrichia_buccalis	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__Leptotrichia_buccalis
+Leptotrichia_hofstadii	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__Leptotrichia_hofstadii
+Leptotrichia_hongkongensis	0	0	0	0	0	0	0	0	0	0	0	12	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__Leptotrichia_hongkongensis
+Leptotrichia_wadei	0	0	0	0	0	0	0	0	2	0	0	1	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__Leptotrichia_wadei
+Pseudoleptotrichia_goodfellowii	0	0	0	0	0	0	0	0	0	10	0	1	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Pseudoleptotrichia; s__Pseudoleptotrichia_goodfellowii
+Streptobacillus_moniliformis	0	0	0	0	0	0	5	1	0	5	3	0	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Streptobacillus; s__Streptobacillus_moniliformis
+Gemmatimonas_groenlandica	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae; g__Gemmatimonas; s__Gemmatimonas_groenlandica
+Gemmatirosa_kalamazoonensis	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae; g__Gemmatirosa; s__Gemmatirosa_kalamazoonensis
+Nitrospira_moscoviensis	0	0	0	0	0	0	0	0	0	2	0	0	d__Bacteria; p__Nitrospirae; c__Nitrospira; o__Nitrospirales; f__Nitrospiraceae; g__Nitrospira; s__Nitrospira_moscoviensis
+Limnoglobus_roseus	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__Limnoglobus; s__Limnoglobus_roseus
+Aquisphaera_giovannonii	0	7	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Isosphaerales; f__Isosphaeraceae; g__Aquisphaera; s__Aquisphaera_giovannonii
+Paludisphaera_borealis	0	0	0	0	0	0	0	1	0	0	0	0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Isosphaerales; f__Isosphaeraceae; g__Paludisphaera; s__Paludisphaera_borealis
+Singulisphaera_acidiphila	0	1	0	0	0	0	0	0	1	2	3	2	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Isosphaerales; f__Isosphaeraceae; g__Singulisphaera; s__Singulisphaera_acidiphila
+Bythopirellula_goksoeyrii	1	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__Lacipirellulaceae; g__Bythopirellula; s__Bythopirellula_goksoeyrii
+Caulifigura_coniformis	0	0	0	0	0	0	0	0	0	0	1	1	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Planctomycetales; f__Planctomycetaceae; g__Caulifigura; s__Caulifigura_coniformis
+Thalassoglobus_polymorphus	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Planctomycetales; f__Planctomycetaceae; g__Thalassoglobus; s__Thalassoglobus_polymorphus
+Asticcacaulis_excentricus	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Asticcacaulis; s__Asticcacaulis_excentricus
+Caulobacter_mirabilis	0	1	2	0	3	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Caulobacter; s__Caulobacter_mirabilis
+Aureimonas_altamirensis	12	19	35	68	47	12	3	4	11	1	7	7	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Aurantimonadaceae; g__Aureimonas; s__Aureimonas_altamirensis
+Devosia_beringensis	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Devosiaceae; g__Devosia; s__Devosia_beringensis
+Pelagibacterium_halotolerans	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Devosiaceae; g__Pelagibacterium; s__Pelagibacterium_halotolerans
+Methylobacterium_durans	0	0	0	0	0	0	0	0	1	0	1	1	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Methylobacteriaceae; g__Methylobacterium; s__Methylobacterium_durans
+Rhodopseudomonas_palustris	0	0	0	3	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Nitrobacteraceae; g__Rhodopseudomonas; s__Rhodopseudomonas_palustris
+Mesorhizobium_terrae	0	0	2	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Phyllobacteriaceae; g__Mesorhizobium; s__Mesorhizobium_terrae
+Hartmannibacter_diazotrophicus	0	0	0	1	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Pleomorphomonadaceae; g__Hartmannibacter; s__Hartmannibacter_diazotrophicus
+Agrobacterium_larrymoorei	0	0	0	1	0	0	2	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Rhizobiaceae; g__Agrobacterium; s__Agrobacterium_larrymoorei
+Neorhizobium_galegae	0	1	2	5	1	2	1	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Rhizobiaceae; g__Neorhizobium; s__Neorhizobium_galegae
+Rhizobium_grahamii	0	0	0	0	0	0	0	0	0	0	1	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Rhizobiaceae; g__Rhizobium; s__Rhizobium_grahamii
+Rhizobium_leguminosarum	0	0	1	3	4	3	4	1	0	1	1	1	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Rhizobiaceae; g__Rhizobium; s__Rhizobium_leguminosarum
+Frigidibacter_mobilis	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Frigidibacter; s__Frigidibacter_mobilis
+Haematobacter_massiliensis	8	34	57	40	20	19	9	12	3	14	12	13	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Haematobacter; s__Haematobacter_massiliensis
+Paracoccus_aminovorans	70	183	254	101	125	88	7	7	13	9	16	24	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Paracoccus; s__Paracoccus_aminovorans
+Paracoccus_contaminans	0	0	0	2	0	0	0	0	0	0	1	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Paracoccus; s__Paracoccus_contaminans
+Paracoccus_jeotgali	1	0	0	0	1	1	0	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Paracoccus; s__Paracoccus_jeotgali
+Paracoccus_kondratievae	1	1	2	0	1	0	0	0	0	2	1	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Paracoccus; s__Paracoccus_kondratievae
+Paracoccus_liaowanqingii	1	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Paracoccus; s__Paracoccus_liaowanqingii
+Paracoccus_yeei	20	26	40	34	34	46	7	0	0	5	1	5	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Paracoccus; s__Paracoccus_yeei
+Roseicitreum_antarcticum	1	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Roseicitreum; s__Roseicitreum_antarcticum
+Silicimonas_algicola	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Silicimonas; s__Silicimonas_algicola
+Tabrizicola_piscis	0	0	0	1	0	0	1	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Tabrizicola; s__Tabrizicola_piscis
+Yoonia_vestfoldensis	1	0	1	1	1	0	1	0	0	3	0	1	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Yoonia; s__Yoonia_vestfoldensis
+Acetobacter_orientalis	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Acetobacteraceae; g__Acetobacter; s__Acetobacter_orientalis
+Neokomagataea_tanensis	0	1	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Acetobacteraceae; g__Neokomagataea; s__Neokomagataea_tanensis
+Roseococcus_microcysteis	0	0	1	0	1	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Acetobacteraceae; g__Roseococcus; s__Roseococcus_microcysteis
+Roseomonas_gilardii	0	0	0	2	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Acetobacteraceae; g__Roseomonas; s__Roseomonas_gilardii
+Skermanella_pratensis	0	0	3	16	0	1	2	0	0	0	1	4	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Azospirillaceae; g__Skermanella; s__Skermanella_pratensis
+Defluviicoccus_vanus	0	0	0	0	0	1	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Rhodospirillaceae; g__Defluviicoccus; s__Defluviicoccus_vanus
+Tsuneonella_amylolytica	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Erythrobacteraceae; g__Tsuneonella; s__Tsuneonella_amylolytica
+Sphingobium_xenophagum	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingobium; s__Sphingobium_xenophagum
+Sphingomonas_changnyeongensis	0	1	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingomonas; s__Sphingomonas_changnyeongensis
+Sphingomonas_daechungensis	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingomonas; s__Sphingomonas_daechungensis
+Sphingomonas_profundi	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingomonas; s__Sphingomonas_profundi
+Sphingomonas_psychrotolerans	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingomonas; s__Sphingomonas_psychrotolerans
+Sphingopyxis_fribergensis	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingopyxis; s__Sphingopyxis_fribergensis
+Alcaligenes_faecalis	0	0	0	0	0	0	0	0	1	0	2	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Alcaligenes; s__Alcaligenes_faecalis
+Orrella_dioscoreae	1	7	0	0	0	2	0	0	0	1	0	2	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Orrella; s__Orrella_dioscoreae
+Pigmentiphaga_aceris	0	0	0	0	0	0	0	1	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Pigmentiphaga; s__Pigmentiphaga_aceris
+Lautropia_mirabilis	8	3	2	0	0	1	21	25	21	131	73	9	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Lautropia; s__Lautropia_mirabilis
+Ralstonia_pickettii	0	5	0	1	0	2	1	3	0	1	1	1	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Ralstonia; s__Ralstonia_pickettii
+Ralstonia_solanacearum	0	1	1	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Ralstonia; s__Ralstonia_solanacearum
+Acidovorax_antarcticus	0	0	0	0	2	0	0	0	1	2	1	7	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Acidovorax; s__Acidovorax_antarcticus
+Comamonas_kerstersii	0	0	0	1	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Comamonas; s__Comamonas_kerstersii
+Comamonas_thiooxydans	0	0	0	0	0	0	0	0	0	2	1	1	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Comamonas; s__Comamonas_thiooxydans
+Ottowia_oryzae	0	0	0	0	2	0	1	1	0	2	8	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Ottowia; s__Ottowia_oryzae
+Polaromonas_naphthalenivorans	0	0	0	0	0	1	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Polaromonas; s__Polaromonas_naphthalenivorans
+Ramlibacter_tataouinensis	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Ramlibacter; s__Ramlibacter_tataouinensis
+Duganella_dendranthematis	0	0	0	0	0	0	0	1	0	0	3	2	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Duganella; s__Duganella_dendranthematis
+Janthinobacterium_lividum	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Janthinobacterium; s__Janthinobacterium_lividum
+Janthinobacterium_tructae	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Janthinobacterium; s__Janthinobacterium_tructae
+Massilia_forsythiae	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Massilia; s__Massilia_forsythiae
+Massilia_oculi	0	0	0	0	0	0	1	0	2	1	2	3	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Massilia; s__Massilia_oculi
+Massilia_putida	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Massilia; s__Massilia_putida
+Pseudoduganella_armeniaca	0	0	2	0	1	0	0	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Pseudoduganella; s__Pseudoduganella_armeniaca
+Pseudoduganella_flava	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Pseudoduganella; s__Pseudoduganella_flava
+Pseudoduganella_plicata	0	1	0	3	0	0	1	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Pseudoduganella; s__Pseudoduganella_plicata
+Rhizobacter_gummiphilus	0	0	0	0	1	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__unknown; g__Rhizobacter; s__Rhizobacter_gummiphilus
+Alysiella_filiformis	0	0	0	0	0	0	7	13	3	3	7	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Alysiella; s__Alysiella_filiformis
+Conchiformibius_steedae	5	31	9	25	15	34	408	251	133	1062	801	47	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Conchiformibius; s__Conchiformibius_steedae
+Eikenella_corrodens	0	0	0	0	0	0	0	0	4	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Eikenella; s__Eikenella_corrodens
+Kingella_oralis	1	0	0	0	0	0	1	0	5	0	0	17	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Kingella; s__Kingella_oralis
+Neisseria_animaloris	0	0	0	0	2	0	1	0	1	4	15	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__Neisseria_animaloris
+Neisseria_bacilliformis	0	0	0	0	0	0	1	0	1	0	0	2	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__Neisseria_bacilliformis
+Neisseria_elongata	0	0	0	0	0	0	0	0	0	0	0	3	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__Neisseria_elongata
+Neisseria_gonorrhoeae	0	0	0	0	1	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__Neisseria_gonorrhoeae
+Neisseria_shayeganii	0	0	1	0	0	0	0	0	0	10	8	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__Neisseria_shayeganii
+Neisseria_zoodegmatis	0	2	0	0	0	0	1	0	1	13	6	2	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__Neisseria_zoodegmatis
+Snodgrassella_alvi	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Snodgrassella; s__Snodgrassella_alvi
+Methylobacillus_flagellatus	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Nitrosomonadales; f__Methylophilaceae; g__Methylobacillus; s__Methylobacillus_flagellatus
+Aromatoleum_pumilum	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Rhodocyclales; f__Rhodocyclaceae; g__Aromatoleum; s__Aromatoleum_pumilum
+Desulfomicrobium_orale	0	0	0	0	0	0	0	1	0	0	1	1	d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfovibrionales; f__Desulfomicrobiaceae; g__Desulfomicrobium; s__Desulfomicrobium_orale
+Haliangium_ochraceum	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Myxococcales; f__Kofleriaceae; g__Haliangium; s__Haliangium_ochraceum
+Labilithrix_luteola	0	0	0	0	0	0	0	1	0	0	1	0	d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Myxococcales; f__Labilitrichaceae; g__Labilithrix; s__Labilithrix_luteola
+Minicystis_rosea	0	0	0	2	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Myxococcales; f__unknown; g__Minicystis; s__Minicystis_rosea
+Campylobacter_concisus	2	12	1	0	0	0	0	1	3	0	0	2	d__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__Campylobacter_concisus
+Campylobacter_gracilis	0	0	0	0	0	0	2	0	0	1	1	10	d__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__Campylobacter_gracilis
+Campylobacter_hominis	0	5	0	5	0	2	0	0	2	2	3	0	d__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__Campylobacter_hominis
+Campylobacter_showae	0	0	0	0	0	0	2	1	4	0	0	2	d__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__Campylobacter_showae
+Campylobacter_sputorum	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__Campylobacter_sputorum
+Campylobacter_upsaliensis	1	0	7	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__Campylobacter_upsaliensis
+Campylobacter_ureolyticus	4	9	0	8	0	12	4	4	0	8	6	3	d__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__Campylobacter_ureolyticus
+Wolinella_succinogenes	0	4	0	0	0	0	2	5	5	32	44	0	d__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Helicobacteraceae; g__Wolinella; s__Wolinella_succinogenes
+Aeromonas_caviae	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Aeromonadales; f__Aeromonadaceae; g__Aeromonas; s__Aeromonas_caviae
+Aeromonas_veronii	0	0	0	0	1	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Aeromonadales; f__Aeromonadaceae; g__Aeromonas; s__Aeromonas_veronii
+Cardiobacterium_hominis	0	1	1	0	0	0	1	0	3	9	2	14	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Cardiobacteriales; f__Cardiobacteriaceae; g__Cardiobacterium; s__Cardiobacterium_hominis
+Dichelobacter_nodosus	0	0	0	0	0	0	1	0	1	17	1	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Cardiobacteriales; f__Cardiobacteriaceae; g__Dichelobacter; s__Dichelobacter_nodosus
+Rheinheimera_mangrovi	0	0	0	0	0	4	5	0	1	2	0	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Chromatiaceae; g__Rheinheimera; s__Rheinheimera_mangrovi
+Enterobacter_hormaechei	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Enterobacter; s__Enterobacter_hormaechei
+Escherichia_coli	0	5	5	1	4	2	87	16	11	6	6	16	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Escherichia; s__Escherichia_coli
+Klebsiella_pneumoniae	0	2	2	0	0	0	17	3	2	1	2	4	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Klebsiella; s__Klebsiella_pneumoniae
+Klebsiella_variicola	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Klebsiella; s__Klebsiella_variicola
+Kosakonia_cowanii	1	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Kosakonia; s__Kosakonia_cowanii
+Leclercia_adecarboxylata	0	0	0	0	0	0	1	1	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Leclercia; s__Leclercia_adecarboxylata
+Salmonella_enterica	0	2	4	0	0	0	49	7	4	2	5	6	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Salmonella; s__Salmonella_enterica
+Shigella_dysenteriae	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Shigella; s__Shigella_dysenteriae
+Buchnera_aphidicola	0	0	0	0	0	0	2	0	1	0	2	5	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Erwiniaceae; g__Buchnera; s__Buchnera_aphidicola
+Erwinia_gerundensis	0	0	3	0	0	0	20	9	63	0	0	4	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Erwiniaceae; g__Erwinia; s__Erwinia_gerundensis
+Erwinia_persicina	0	0	0	0	0	0	0	0	0	0	2	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Erwiniaceae; g__Erwinia; s__Erwinia_persicina
+Pantoea_agglomerans	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Erwiniaceae; g__Pantoea; s__Pantoea_agglomerans
+Pantoea_eucalypti	0	0	0	0	0	0	1	1	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Erwiniaceae; g__Pantoea; s__Pantoea_eucalypti
+Edwardsiella_ictaluri	0	0	0	0	0	0	3	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Hafniaceae; g__Edwardsiella; s__Edwardsiella_ictaluri
+Proteus_mirabilis	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Morganellaceae; g__Proteus; s__Proteus_mirabilis
+Pectobacterium_carotovorum	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Pectobacteriaceae; g__Pectobacterium; s__Pectobacterium_carotovorum
+Pectobacterium_odoriferum	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Pectobacteriaceae; g__Pectobacterium; s__Pectobacterium_odoriferum
+Candidatus_Fukatsuia	0	0	0	0	0	0	1	0	0	0	5	17	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Yersiniaceae; g__Candidatus; s__Fukatsuia
+Rahnella_aquatilis	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Yersiniaceae; g__Rahnella; s__Rahnella_aquatilis
+Serratia_symbiotica	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Yersiniaceae; g__Serratia; s__Serratia_symbiotica
+Yersinia_enterocolitica	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Yersiniaceae; g__Yersinia; s__Yersinia_enterocolitica
+Yersinia_entomophaga	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Yersiniaceae; g__Yersinia; s__Yersinia_entomophaga
+Yersinia_pestis	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Yersiniaceae; g__Yersinia; s__Yersinia_pestis
+Yersinia_pseudotuberculosis	0	0	0	0	0	0	2	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Yersiniaceae; g__Yersinia; s__Yersinia_pseudotuberculosis
+Acinetobacter_baumannii	4	17	9	8	11	8	3	2	3	11	7	19	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Acinetobacter; s__Acinetobacter_baumannii
+Acinetobacter_haemolyticus	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Acinetobacter; s__Acinetobacter_haemolyticus
+Acinetobacter_indicus	0	1	2	0	1	0	0	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Acinetobacter; s__Acinetobacter_indicus
+Acinetobacter_johnsonii	0	2	0	5	2	1	2	0	3	1	2	4	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Acinetobacter; s__Acinetobacter_johnsonii
+Acinetobacter_pittii	1	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Acinetobacter; s__Acinetobacter_pittii
+Acinetobacter_radioresistens	0	0	0	0	0	0	0	0	0	0	3	3	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Acinetobacter; s__Acinetobacter_radioresistens
+Acinetobacter_schindleri	0	2	3	1	1	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Acinetobacter; s__Acinetobacter_schindleri
+Acinetobacter_seifertii	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Acinetobacter; s__Acinetobacter_seifertii
+Acinetobacter_ursingii	13	36	35	64	35	19	56	18	11	74	38	52	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Acinetobacter; s__Acinetobacter_ursingii
+Acinetobacter_venetianus	0	1	0	0	0	0	0	0	1	1	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Acinetobacter; s__Acinetobacter_venetianus
+Moraxella_bovoculi	0	1	6	0	0	1	4	1	1	40	24	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Moraxella; s__Moraxella_bovoculi
+Moraxella_cuniculi	0	0	0	0	1	0	3	0	3	35	17	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Moraxella; s__Moraxella_cuniculi
+Moraxella_osloensis	780	1237	1138	3007	2258	1633	225	85	58	492	453	509	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Moraxella; s__Moraxella_osloensis
+Steroidobacter_denitrificans	0	1	0	2	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nevskiales; f__Steroidobacteraceae; g__Steroidobacter; s__Steroidobacter_denitrificans
+Salinicola_tamaricis	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Oceanospirillales; f__Halomonadaceae; g__Salinicola; s__Salinicola_tamaricis
+Actinobacillus_lignieresii	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Actinobacillus; s__Actinobacillus_lignieresii
+Actinobacillus_pleuropneumoniae	0	0	0	0	0	0	1	0	0	2	1	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Actinobacillus; s__Actinobacillus_pleuropneumoniae
+Aggregatibacter_aphrophilus	2	5	7	0	5	0	5	0	6	0	0	5	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter; s__Aggregatibacter_aphrophilus
+Aggregatibacter_segnis	0	0	0	0	0	0	1	1	4	3	0	2	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter; s__Aggregatibacter_segnis
+Avibacterium_paragallinarum	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Avibacterium; s__Avibacterium_paragallinarum
+Bibersteinia_trehalosi	0	0	0	0	0	0	0	0	0	1	1	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Bibersteinia; s__Bibersteinia_trehalosi
+Frederiksenia_canicola	1	10	61	1	3	4	115	58	42	445	405	39	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Frederiksenia; s__Frederiksenia_canicola
+Gallibacterium_anatis	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Gallibacterium; s__Gallibacterium_anatis
+Glaesserella_parasuis	0	0	1	0	0	0	1	2	1	2	5	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Glaesserella; s__Glaesserella_parasuis
+Haemophilus_haemolyticus	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__Haemophilus_haemolyticus
+Haemophilus_influenzae	0	0	0	0	0	0	0	1	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__Haemophilus_influenzae
+Haemophilus_parahaemolyticus	2	8	0	55	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__Haemophilus_parahaemolyticus
+Haemophilus_parainfluenzae	40	76	10	12	0	2	39	30	247	20	48	214	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__Haemophilus_parainfluenzae
+Haemophilus_pittmaniae	0	0	0	0	0	0	1	0	3	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__Haemophilus_pittmaniae
+Mannheimia_varigena	0	0	0	0	0	0	0	1	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Mannheimia; s__Mannheimia_varigena
+Pasteurella_multocida	3	2	5	3	0	4	51	12	11	82	73	5	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Pasteurella; s__Pasteurella_multocida
+Pseudomonas_aeruginosa	3	7	6	9	6	3	17	3	1	40	6	6	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__Pseudomonas_aeruginosa
+Pseudomonas_bijieensis	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__Pseudomonas_bijieensis
+Pseudomonas_brenneri	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__Pseudomonas_brenneri
+Pseudomonas_chlororaphis	0	0	0	0	0	0	0	1	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__Pseudomonas_chlororaphis
+Pseudomonas_monteilii	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__Pseudomonas_monteilii
+Pseudomonas_oryzihabitans	15	13	36	20	35	12	5	2	3	6	9	4	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__Pseudomonas_oryzihabitans
+Pseudomonas_psychrotolerans	0	3	1	3	3	3	0	0	0	11	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__Pseudomonas_psychrotolerans
+Pseudomonas_putida	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__Pseudomonas_putida
+Pseudomonas_rhizosphaerae	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__Pseudomonas_rhizosphaerae
+Pseudomonas_synxantha	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__Pseudomonas_synxantha
+Pseudomonas_taetrolens	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__Pseudomonas_taetrolens
+Pseudomonas_umsongensis	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__Pseudomonas_umsongensis
+Luteibacter_rhizovicinus	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Rhodanobacteraceae; g__Luteibacter; s__Luteibacter_rhizovicinus
+Rhodanobacter_glycinis	0	0	0	0	0	0	0	0	0	0	0	3	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Rhodanobacteraceae; g__Rhodanobacter; s__Rhodanobacter_glycinis
+Arenimonas_daejeonensis	0	3	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Arenimonas; s__Arenimonas_daejeonensis
+Luteimonas_granuli	0	0	9	0	0	0	0	0	0	0	1	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Luteimonas; s__Luteimonas_granuli
+Lysobacter_gummosus	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Lysobacter; s__Lysobacter_gummosus
+Pseudoxanthomonas_mexicana	0	0	1	0	0	4	0	0	0	3	1	6	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Pseudoxanthomonas; s__Pseudoxanthomonas_mexicana
+Pseudoxanthomonas_spadix	0	7	0	0	0	0	0	0	1	2	2	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Pseudoxanthomonas; s__Pseudoxanthomonas_spadix
+Stenotrophomonas_maltophilia	1	2	0	1	1	1	0	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Stenotrophomonas; s__Stenotrophomonas_maltophilia
+Stenotrophomonas_rhizophila	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Stenotrophomonas; s__Stenotrophomonas_rhizophila
+Xanthomonas_citri	1	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Xanthomonas; s__Xanthomonas_citri
+Gracilinema_caldarium	0	0	0	1	0	0	0	0	0	0	0	0	d__Bacteria; p__Spirochaetes; c__Spirochaetia; o__Spirochaetales; f__Breznakiellaceae; g__Gracilinema; s__Gracilinema_caldarium
+Treponema_brennaborense	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Spirochaetes; c__Spirochaetia; o__Spirochaetales; f__Treponemataceae; g__Treponema; s__Treponema_brennaborense
+Treponema_denticola	0	0	0	0	0	0	0	2	0	6	0	0	d__Bacteria; p__Spirochaetes; c__Spirochaetia; o__Spirochaetales; f__Treponemataceae; g__Treponema; s__Treponema_denticola
+Treponema_pedis	0	0	1	0	0	0	0	0	0	1	3	0	d__Bacteria; p__Spirochaetes; c__Spirochaetia; o__Spirochaetales; f__Treponemataceae; g__Treponema; s__Treponema_pedis
+Treponema_phagedenis	0	0	0	0	0	0	0	1	0	0	0	0	d__Bacteria; p__Spirochaetes; c__Spirochaetia; o__Spirochaetales; f__Treponemataceae; g__Treponema; s__Treponema_phagedenis
+Jonquetella_anthropi	1	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Synergistetes; c__Synergistia; o__Synergistales; f__Synergistaceae; g__Jonquetella; s__Jonquetella_anthropi
+Luteolibacter_luteus	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Verrucomicrobiaceae; g__Luteolibacter; s__Luteolibacter_luteus
+Granulicella	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Acidobacteriaceae; g__Granulicella
+Actinomyces	0	0	1	0	0	0	0	0	0	0	1	2	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces
+Schaalia	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Actinomycetales; f__Actinomycetaceae; g__Schaalia
+Corynebacterium	4	8	9	7	7	8	5	4	18	13	10	70	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium
+Gordonia	0	0	0	0	0	0	0	0	0	1	1	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Gordoniaceae; g__Gordonia
+Mycobacterium	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Mycobacteriaceae; g__Mycobacterium
+Rhodococcus	0	0	0	0	0	0	2	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Nocardiaceae; g__Rhodococcus
+Brevibacterium	3	4	19	3	4	5	2	1	10	21	1	14	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Brevibacteriaceae; g__Brevibacterium
+Brachybacterium	0	0	0	0	0	0	0	0	3	2	0	8	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Dermabacteraceae; g__Brachybacterium
+Dermabacter	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Dermabacteraceae; g__Dermabacter
+Janibacter	0	1	0	0	0	3	0	0	1	0	0	2	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Intrasporangiaceae; g__Janibacter
+Agrococcus	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Microbacteriaceae; g__Agrococcus
+Aurantimicrobium	0	7	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Microbacteriaceae; g__Aurantimicrobium
+Clavibacter	0	0	2	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Microbacteriaceae; g__Clavibacter
+Leucobacter	1	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Microbacteriaceae; g__Leucobacter
+Microbacterium	1	7	0	1	0	0	0	0	0	0	0	3	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Microbacteriaceae; g__Microbacterium
+Arthrobacter	0	0	0	0	0	0	0	0	0	2	0	5	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae; g__Arthrobacter
+Glutamicibacter	0	0	0	1	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae; g__Glutamicibacter
+Kocuria	2	0	2	1	0	4	0	0	3	4	4	9	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae; g__Kocuria
+Micrococcus	3	13	3	3	0	1	7	4	7	131	80	270	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae; g__Micrococcus
+Nesterenkonia	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae; g__Nesterenkonia
+Rothia	0	1	0	0	0	0	0	0	3	0	0	15	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae; g__Rothia
+Nakamurella	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Nakamurellales; f__Nakamurellaceae; g__Nakamurella
+Nocardioides	1	0	0	0	0	1	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Propionibacteriales; f__Nocardioidaceae; g__Nocardioides
+Cutibacterium	3	5	3	1	0	0	6	28	42	2	3	99	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Propionibacteriales; f__Propionibacteriaceae; g__Cutibacterium
+Microlunatus	0	1	8	0	0	0	0	0	0	0	0	2	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Propionibacteriales; f__Propionibacteriaceae; g__Microlunatus
+Pseudonocardia	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Pseudonocardiales; f__Pseudonocardiaceae; g__Pseudonocardia
+Saccharomonospora	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Pseudonocardiales; f__Pseudonocardiaceae; g__Saccharomonospora
+Rubrobacter	0	0	0	1	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter
+Bacteroides	0	0	4	0	0	0	1	2	3	20	6	0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides
+Phocaeicola	0	0	0	0	0	0	0	0	1	0	0	1	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Phocaeicola
+Porphyromonas	1	0	12	4	7	1	15	10	3	80	58	4	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas
+Prevotella	1	1	1	0	0	0	1	0	7	5	1	10	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella
+Tannerella	0	0	0	0	0	0	0	0	0	5	0	0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Tannerellaceae; g__Tannerella
+Chitinophaga	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Chitinophagia; o__Chitinophagales; f__Chitinophagaceae; g__Chitinophaga
+Flavisolibacter	1	11	7	0	13	1	0	1	1	6	0	1	d__Bacteria; p__Bacteroidota; c__Chitinophagia; o__Chitinophagales; f__Chitinophagaceae; g__Flavisolibacter
+Niabella	0	0	2	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Chitinophagia; o__Chitinophagales; f__Chitinophagaceae; g__Niabella
+Spirosoma	2	1	0	0	0	0	2	0	0	0	2	3	d__Bacteria; p__Bacteroidota; c__Cytophagia; o__Cytophagales; f__Cytophagaceae; g__Spirosoma
+Adhaeribacter	0	0	0	1	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Cytophagia; o__Cytophagales; f__Hymenobacteraceae; g__Adhaeribacter
+Hymenobacter	0	2	0	1	10	0	0	1	2	2	6	14	d__Bacteria; p__Bacteroidota; c__Cytophagia; o__Cytophagales; f__Hymenobacteraceae; g__Hymenobacter
+Capnocytophaga	1	4	0	0	0	0	10	1	24	63	27	22	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga
+Flavobacterium	1	0	0	2	0	0	0	1	3	6	4	12	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae; g__Flavobacterium
+Chryseobacterium	4	5	0	2	0	1	2	2	8	11	2	15	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Weeksellaceae; g__Chryseobacterium
+Mucilaginibacter	0	0	0	0	0	0	0	0	1	0	4	0	d__Bacteria; p__Bacteroidota; c__Sphingobacteriia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Mucilaginibacter
+Pedobacter	0	0	7	0	0	0	0	1	0	0	0	2	d__Bacteria; p__Bacteroidota; c__Sphingobacteriia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Pedobacter
+Sphingobacterium	0	3	0	0	0	0	0	0	1	2	3	12	d__Bacteria; p__Bacteroidota; c__Sphingobacteriia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Sphingobacterium
+Chondrocystis	1	0	0	0	0	14	0	0	0	0	0	0	d__Bacteria; p__Cyanobacteria; c__unknown; o__Chroococcales; f__Chroococcaceae; g__Chondrocystis
+Anabaena	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Cyanobacteria; c__unknown; o__Nostocales; f__Nostocaceae; g__Anabaena
+Nostoc	0	0	0	0	0	29	0	0	3	4	0	1	d__Bacteria; p__Cyanobacteria; c__unknown; o__Nostocales; f__Nostocaceae; g__Nostoc
+Leptolyngbya	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Cyanobacteria; c__unknown; o__Pseudanabaenales; f__Leptolyngbyaceae; g__Leptolyngbya
+Deinococcus	11	10	12	1	3	0	10	2	7	8	6	10	d__Bacteria; p__Deinococcus-Thermus; c__Deinococci; o__Deinococcales; f__Deinococcaceae; g__Deinococcus
+Thermus	1	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Deinococcus-Thermus; c__Deinococci; o__Thermales; f__Thermaceae; g__Thermus
+Tumebacillus	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Alicyclobacillaceae; g__Tumebacillus
+Bacillus	2	17	12	1	9	4	8	5	4	16	14	10	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus
+Lysinibacillus	0	0	8	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Lysinibacillus
+Listeria	0	0	0	0	0	0	1	0	0	0	1	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Listeriaceae; g__Listeria
+Brevibacillus	0	0	1	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Paenibacillaceae; g__Brevibacillus
+Cohnella	0	0	0	0	0	0	0	0	0	0	1	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Paenibacillaceae; g__Cohnella
+Paenibacillus	2	1	6	2	0	0	1	0	6	4	4	2	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Paenibacillaceae; g__Paenibacillus
+Kurthia	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Planococcaceae; g__Kurthia
+Planococcus	0	0	0	0	0	0	1	0	0	0	0	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Planococcaceae; g__Planococcus
+Sporosarcina	3	8	2	0	6	2	0	3	1	0	3	9	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Planococcaceae; g__Sporosarcina
+Staphylococcus	2811	1714	760	3067	3395	988	384	6704	2480	1107	831	1712	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus
+Exiguobacterium	0	2	6	0	2	0	1	1	4	9	4	36	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__unknown; g__Exiguobacterium
+Gemella	27	38	7	3	0	2	16	51	59	43	46	50	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__unknown; g__Gemella
+Aerococcus	1	2	3	0	0	0	2	3	5	23	7	7	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Aerococcaceae; g__Aerococcus
+Carnobacterium	1	0	0	3	0	0	3	0	0	1	9	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Carnobacterium
+Jeotgalibaca	0	0	0	0	0	1	0	0	0	0	0	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Jeotgalibaca
+Enterococcus	0	0	0	13	1	0	1	1	0	3	1	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus
+Tetragenococcus	0	0	0	0	0	1	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Tetragenococcus
+Vagococcus	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Vagococcus
+Lacticaseibacillus	0	0	0	0	0	0	0	0	0	2	0	1	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lacticaseibacillus
+Lactobacillus	35	122	87	34	58	70	15	2	26	16	17	15	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus
+Leuconostoc	0	12	0	4	0	4	1	0	0	2	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Leuconostoc
+Weissella	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Weissella
+Lactococcus	0	15	1	0	0	0	0	1	3	0	7	8	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Lactococcus
+Streptococcus	469	413	45	102	54	110	405	579	804	519	972	953	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus
+Alkaliphilus	1	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Clostridiaceae; g__Alkaliphilus
+Clostridium	0	16	4	3	22	11	5	0	5	6	0	3	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Clostridiaceae; g__Clostridium
+Anaerocolumna	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Lachnospiraceae; g__Anaerocolumna
+Anaerostipes	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Lachnospiraceae; g__Anaerostipes
+Blautia	0	2	0	3	0	0	0	0	1	3	0	1	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Lachnospiraceae; g__Blautia
+Butyrivibrio	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Lachnospiraceae; g__Butyrivibrio
+Cellulosilyticum	0	0	2	0	0	0	0	2	0	1	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Lachnospiraceae; g__Cellulosilyticum
+Lachnoclostridium	0	0	2	0	0	0	0	1	0	2	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Lachnospiraceae; g__Lachnoclostridium
+Ruminococcus	0	0	0	0	0	4	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Oscillospiraceae; g__Ruminococcus
+Romboutsia	0	1	0	0	0	1	6	3	2	1	0	2	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Peptostreptococcaceae; g__Romboutsia
+Turicibacter	0	0	0	0	0	0	0	0	0	0	1	0	d__Bacteria; p__Firmicutes; c__Erysipelotrichia; o__Erysipelotrichales; f__Turicibacteraceae; g__Turicibacter
+Megamonas	0	3	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Selenomonadales; f__Selenomonadaceae; g__Megamonas
+Selenomonas	7	0	2	0	0	0	0	2	1	1	0	11	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Selenomonadales; f__Selenomonadaceae; g__Selenomonas
+Pelosinus	0	0	0	0	0	0	0	0	0	0	1	0	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Selenomonadales; f__Sporomusaceae; g__Pelosinus
+Dialister	2	14	2	7	0	0	2	1	1	2	2	4	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Veillonellales; f__Veillonellaceae; g__Dialister
+Megasphaera	0	0	0	0	0	0	0	0	2	0	0	1	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Veillonellales; f__Veillonellaceae; g__Megasphaera
+Veillonella	30	25	3	0	0	2	26	13	100	10	11	101	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Veillonellales; f__Veillonellaceae; g__Veillonella
+Anaerococcus	26	82	78	25	60	50	23	225	106	44	43	164	d__Bacteria; p__Firmicutes; c__Tissierellia; o__Tissierellales; f__Peptoniphilaceae; g__Anaerococcus
+Peptoniphilus	0	3	1	1	1	1	0	3	0	3	0	0	d__Bacteria; p__Firmicutes; c__Tissierellia; o__Tissierellales; f__Peptoniphilaceae; g__Peptoniphilus
+Fusobacterium	6	2	35	33	0	16	53	41	39	371	114	125	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium
+Leptotrichia	2	0	0	0	0	0	0	1	5	2	0	20	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia
+Gemmatimonas	0	1	3	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae; g__Gemmatimonas
+Nitrospira	0	0	0	0	1	0	0	0	0	1	0	0	d__Bacteria; p__Nitrospirae; c__Nitrospira; o__Nitrospirales; f__Nitrospiraceae; g__Nitrospira
+Planctomyces	0	1	0	0	1	0	0	0	0	0	0	0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Planctomycetales; f__Planctomycetaceae; g__Planctomyces
+Brevundimonas	23	217	68	95	45	44	10	2	6	23	22	43	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Brevundimonas
+Caulobacter	0	0	0	0	0	0	0	1	0	1	0	1	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Caulobacter
+Aureimonas	2	1	1	2	2	1	0	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Aurantimonadaceae; g__Aureimonas
+Bosea	0	3	4	0	0	1	0	0	1	0	0	1	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Boseaceae; g__Bosea
+Ochrobactrum	0	2	0	0	0	0	1	0	4	1	2	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Brucellaceae; g__Ochrobactrum
+Devosia	0	1	6	6	4	0	0	0	1	0	1	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Devosiaceae; g__Devosia
+Hyphomicrobium	0	3	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Hyphomicrobiaceae; g__Hyphomicrobium
+Rhodoplanes	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Hyphomicrobiaceae; g__Rhodoplanes
+Methylobacterium	0	0	1	1	5	1	3	0	0	2	3	2	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Methylobacteriaceae; g__Methylobacterium
+Methylorubrum	0	0	0	1	0	0	0	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Methylobacteriaceae; g__Methylorubrum
+Microvirga	0	0	0	1	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Methylobacteriaceae; g__Microvirga
+Bradyrhizobium	0	0	0	1	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Nitrobacteraceae; g__Bradyrhizobium
+Tardiphaga	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Nitrobacteraceae; g__Tardiphaga
+Mesorhizobium	0	0	4	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Phyllobacteriaceae; g__Mesorhizobium
+Agrobacterium	0	0	1	1	0	0	1	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Rhizobiaceae; g__Agrobacterium
+Neorhizobium	2	1	0	0	1	0	6	2	0	2	5	4	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Rhizobiaceae; g__Neorhizobium
+Rhizobium	0	1	1	1	0	1	1	0	0	1	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Rhizobiaceae; g__Rhizobium
+Shinella	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Rhizobiaceae; g__Shinella
+Pseudolabrys	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Xanthobacteraceae; g__Pseudolabrys
+Paracoccus	2688	3894	5640	6108	4091	6370	370	149	221	625	679	886	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Paracoccus
+Roseovarius	0	0	2	0	1	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Roseobacteraceae; g__Roseovarius
+Acetobacter	0	0	0	0	0	0	2	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Acetobacteraceae; g__Acetobacter
+Roseomonas	30	119	61	69	213	563	8	11	14	21	57	80	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Acetobacteraceae; g__Roseomonas
+Azospirillum	1	0	0	1	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Azospirillaceae; g__Azospirillum
+Altererythrobacter	0	1	0	1	0	0	0	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Erythrobacteraceae; g__Altererythrobacter
+Novosphingobium	0	2	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Novosphingobium
+Sphingobium	0	0	2	0	0	0	6	3	1	1	8	5	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingobium
+Sphingomonas	8	16	23	39	10	16	11	4	3	19	22	29	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingomonas
+Sphingopyxis	0	0	0	0	0	0	1	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingopyxis
+Sandaracinobacter	0	0	0	1	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingosinicellaceae; g__Sandaracinobacter
+Achromobacter	0	0	0	0	1	1	2	0	0	0	1	1	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Achromobacter
+Advenella	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Advenella
+Burkholderia	0	0	0	0	0	1	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Burkholderia
+Ralstonia	4	47	12	11	5	16	8	15	6	2	15	19	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Ralstonia
+Acidovorax	0	0	0	0	0	0	0	0	0	0	1	1	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Acidovorax
+Comamonas	0	0	3	0	0	0	0	0	0	2	2	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Comamonas
+Delftia	0	0	0	0	0	0	0	0	0	0	0	4	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Delftia
+Hydrogenophaga	0	0	0	0	0	1	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Hydrogenophaga
+Melaminivora	0	0	0	0	0	0	0	0	0	0	1	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Melaminivora
+Ottowia	0	1	1	0	0	0	1	0	4	3	8	1	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Ottowia
+Polaromonas	0	0	0	0	0	6	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Polaromonas
+Variovorax	6	1	0	0	2	0	2	0	0	0	3	5	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Variovorax
+Duganella	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Duganella
+Janthinobacterium	0	1	1	2	1	0	1	1	1	5	6	7	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Janthinobacterium
+Massilia	0	12	86	13	13	10	8	3	16	12	18	48	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Massilia
+Methylibium	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Sphaerotilaceae; g__Methylibium
+Eikenella	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Eikenella
+Neisseria	24	40	12	10	2	8	60	26	109	142	103	194	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria
+Methylophilus	0	0	0	0	0	0	0	0	0	1	0	1	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Nitrosomonadales; f__Methylophilaceae; g__Methylophilus
+Methylotenera	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Nitrosomonadales; f__Methylophilaceae; g__Methylotenera
+Methyloversatilis	0	0	0	3	0	0	0	0	0	0	0	2	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Nitrosomonadales; f__Sterolibacteriaceae; g__Methyloversatilis
+Azospira	0	0	0	0	0	0	0	1	0	1	2	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Rhodocyclales; f__Rhodocyclaceae; g__Azospira
+Desulfovibrio	0	0	0	0	0	0	0	0	2	0	0	0	d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Desulfovibrio
+Arcobacter	0	3	0	0	0	0	3	1	0	8	21	1	d__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Arcobacteraceae; g__Arcobacter
+Campylobacter	9	21	59	0	0	1	86	23	20	179	180	12	d__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter
+Helicobacter	0	1	0	8	0	0	2	0	0	1	2	2	d__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Helicobacteraceae; g__Helicobacter
+Aeromonas	0	14	1	0	17	5	1	2	0	19	12	7	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Aeromonadales; f__Aeromonadaceae; g__Aeromonas
+Shewanella	1	0	0	2	3	0	1	0	0	1	0	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Alteromonadales; f__Shewanellaceae; g__Shewanella
+Cellvibrio	0	0	3	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Cellvibrionales; f__Cellvibrionaceae; g__Cellvibrio
+Teredinibacter	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Cellvibrionales; f__Cellvibrionaceae; g__Teredinibacter
+Rheinheimera	0	0	0	2	0	1	0	1	0	1	0	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Chromatiaceae; g__Rheinheimera
+Enterobacter	0	0	0	0	0	0	1	1	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Enterobacter
+Escherichia	0	0	0	0	1	0	0	0	0	0	1	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Escherichia
+Klebsiella	0	1	0	0	3	0	13	5	3	0	5	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Klebsiella
+Leclercia	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Leclercia
+Salmonella	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Salmonella
+Erwinia	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Erwiniaceae; g__Erwinia
+Pantoea	8	2	4	0	6	7	1120	125	14	13	47	121	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Erwiniaceae; g__Pantoea
+Proteus	0	0	0	0	0	0	1	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Morganellaceae; g__Proteus
+Pectobacterium	0	0	0	0	0	0	2	0	0	0	0	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Pectobacteriaceae; g__Pectobacterium
+Rahnella	0	0	0	0	0	0	9	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Yersiniaceae; g__Rahnella
+Yersinia	0	0	0	0	0	0	3	0	0	0	1	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Yersiniaceae; g__Yersinia
+Acinetobacter	91	312	340	469	328	203	345	132	80	346	242	493	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Acinetobacter
+Moraxella	11	21	30	11	24	18	52	23	10	397	141	18	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Moraxella
+Psychrobacter	3	8	22	6	12	2	11	6	2	18	15	30	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae; g__Psychrobacter
+Sinimarinibacterium	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nevskiales; f__Sinobacteraceae; g__Sinimarinibacterium
+Halomonas	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Oceanospirillales; f__Halomonadaceae; g__Halomonas
+Actinobacillus	1	3	1	6	1	1	15	20	18	73	68	7	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Actinobacillus
+Aggregatibacter	1	2	2	0	7	0	8	0	7	1	0	13	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter
+Haemophilus	18	30	2	12	1	0	34	7	68	12	23	61	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus
+Pasteurella	1	0	3	5	1	6	29	14	18	86	57	7	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Pasteurella
+Pseudomonas	166	377	402	614	569	255	946	282	128	647	315	659	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas
+Luteibacter	0	0	0	0	0	0	0	0	0	0	0	2	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Rhodanobacteraceae; g__Luteibacter
+Rhodanobacter	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Rhodanobacteraceae; g__Rhodanobacter
+Luteimonas	0	0	6	0	2	0	0	0	0	0	1	2	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Luteimonas
+Lysobacter	2	3	5	0	2	0	3	10	7	29	26	2	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Lysobacter
+Pseudoxanthomonas	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Pseudoxanthomonas
+Stenotrophomonas	10	36	21	8	12	26	4	5	2	6	2	16	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Stenotrophomonas
+Thermomonas	0	1	0	0	0	0	1	0	0	2	0	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Thermomonas
+Xanthomonas	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Xanthomonas
+Treponema	0	0	2	2	0	1	2	2	3	20	10	3	d__Bacteria; p__Spirochaetes; c__Spirochaetia; o__Spirochaetales; f__Treponemataceae; g__Treponema
+Acholeplasma	0	0	2	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Tenericutes; c__Mollicutes; o__Acholeplasmatales; f__Acholeplasmataceae; g__Acholeplasma
+Acidobacteriaceae	0	1	0	0	0	0	0	0	0	0	1	1	d__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Acidobacteriaceae
+Actinomycetaceae	1	0	0	1	0	0	0	0	2	5	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Actinomycetales; f__Actinomycetaceae
+Mycobacteriaceae	1	0	1	0	0	0	0	0	1	2	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales; f__Mycobacteriaceae
+Geodermatophilaceae	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Geodermatophilales; f__Geodermatophilaceae
+Dermabacteraceae	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Dermabacteraceae
+Dermatophilaceae	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Dermatophilaceae
+Intrasporangiaceae	0	2	2	0	0	0	0	0	0	1	1	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Intrasporangiaceae
+Microbacteriaceae	1	9	1	4	0	0	0	0	2	6	1	6	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Microbacteriaceae
+Micrococcaceae	7	27	6	5	1	1	2	2	7	87	37	202	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales; f__Micrococcaceae
+Micromonosporaceae	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micromonosporales; f__Micromonosporaceae
+Nocardioidaceae	0	0	0	0	0	0	0	0	1	1	0	1	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Propionibacteriales; f__Nocardioidaceae
+Propionibacteriaceae	15	42	22	10	0	2	26	177	200	37	38	748	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Propionibacteriales; f__Propionibacteriaceae
+Streptomycetaceae	0	0	0	0	0	1	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Streptomycetales; f__Streptomycetaceae
+Dysgonomonadaceae	0	0	0	3	0	0	0	0	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Dysgonomonadaceae
+Odoribacteraceae	0	0	0	0	0	0	0	1	0	0	0	0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Odoribacteraceae
+Prevotellaceae	0	0	0	0	0	0	0	1	1	3	4	3	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae
+Chitinophagaceae	2	19	21	6	19	12	8	4	2	5	2	9	d__Bacteria; p__Bacteroidota; c__Chitinophagia; o__Chitinophagales; f__Chitinophagaceae
+Cytophagaceae	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Bacteroidota; c__Cytophagia; o__Cytophagales; f__Cytophagaceae
+Hymenobacteraceae	0	0	0	0	0	0	0	0	0	0	0	1	d__Bacteria; p__Bacteroidota; c__Cytophagia; o__Cytophagales; f__Hymenobacteraceae
+Flavobacteriaceae	0	1	1	0	0	1	1	0	2	21	4	4	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae
+Weeksellaceae	10	9	0	6	2	3	12	13	39	126	33	21	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales; f__Weeksellaceae
+Sphingobacteriaceae	0	0	4	0	0	0	0	0	0	0	1	0	d__Bacteria; p__Bacteroidota; c__Sphingobacteriia; o__Sphingobacteriales; f__Sphingobacteriaceae
+Nostocaceae	0	0	0	0	0	9	3	0	1	1	1	0	d__Bacteria; p__Cyanobacteria; c__unknown; o__Nostocales; f__Nostocaceae
+Alicyclobacillaceae	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Alicyclobacillaceae
+Bacillaceae	0	6	51	2	1	2	3	3	2	4	9	10	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae
+Paenibacillaceae	0	1	0	0	0	0	1	0	0	1	1	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Paenibacillaceae
+Planococcaceae	3	5	6	4	5	0	2	0	1	1	1	15	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Planococcaceae
+Staphylococcaceae	25	20	20	50	58	11	7	50	37	17	12	43	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae
+Aerococcaceae	0	9	6	1	26	3	0	2	8	17	28	3	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Aerococcaceae
+Carnobacteriaceae	0	2	0	0	0	0	1	6	10	0	2	14	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae
+Enterococcaceae	0	0	1	1	0	0	1	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae
+Lactobacillaceae	1	3	5	6	4	4	1	0	5	3	5	3	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae
+Streptococcaceae	8	7	1	1	0	0	18	30	30	30	31	22	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae
+Clostridiaceae	0	2	5	0	5	0	2	4	1	1	2	1	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Clostridiaceae
+Lachnospiraceae	3	5	12	3	5	0	12	12	14	41	42	6	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Lachnospiraceae
+Oscillospiraceae	0	0	0	0	0	1	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Oscillospiraceae
+Peptostreptococcaceae	4	9	38	4	8	2	26	23	17	52	49	6	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales; f__Peptostreptococcaceae
+Erysipelotrichaceae	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Erysipelotrichia; o__Erysipelotrichales; f__Erysipelotrichaceae
+Selenomonadaceae	0	0	0	0	0	0	1	2	0	2	0	0	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Selenomonadales; f__Selenomonadaceae
+Veillonellaceae	0	2	0	0	0	0	2	0	4	0	0	0	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Veillonellales; f__Veillonellaceae
+Peptoniphilaceae	4	12	14	6	10	9	3	5	8	13	7	8	d__Bacteria; p__Firmicutes; c__Tissierellia; o__Tissierellales; f__Peptoniphilaceae
+Fusobacteriaceae	0	0	1	1	0	0	0	0	2	8	1	0	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae
+Leptotrichiaceae	0	0	0	0	0	0	3	0	4	11	2	0	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae
+Gemmatimonadaceae	0	0	0	0	0	1	0	0	0	0	0	0	d__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae
+Gemmataceae	1	0	0	0	0	0	1	0	0	0	1	0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae
+Isosphaeraceae	0	4	1	0	1	0	1	1	1	1	0	0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Isosphaerales; f__Isosphaeraceae
+Planctomycetaceae	1	1	2	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Planctomycetales; f__Planctomycetaceae
+Caulobacteraceae	2	30	8	10	6	5	3	2	4	4	3	5	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae
+Beijerinckiaceae	0	3	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Beijerinckiaceae
+Brucellaceae	1	0	1	1	0	1	0	0	0	0	3	1	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Brucellaceae
+Hyphomicrobiaceae	0	0	1	1	1	0	2	0	0	1	0	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Hyphomicrobiaceae
+Methylobacteriaceae	2	2	2	6	0	0	3	0	2	4	0	3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Methylobacteriaceae
+Nitrobacteraceae	1	4	5	3	0	0	2	2	1	0	3	2	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Nitrobacteraceae
+Phyllobacteriaceae	1	0	2	3	0	0	0	0	0	0	1	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Phyllobacteriaceae
+Rhizobiaceae	13	42	70	78	63	15	98	26	29	76	108	106	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales; f__Rhizobiaceae
+Rhodobacteraceae	809	893	1249	1310	888	1530	200	39	77	262	275	489	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae
+Acetobacteraceae	4	9	16	5	12	37	9	1	1	4	12	14	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Acetobacteraceae
+Rhodospirillaceae	0	1	0	12	2	0	0	0	0	2	1	1	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Rhodospirillaceae
+Erythrobacteraceae	2	4	6	19	8	7	1	0	5	6	6	9	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Erythrobacteraceae
+Sphingomonadaceae	9	10	16	16	8	7	11	4	7	20	11	18	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae
+Alcaligenaceae	1	3	0	1	0	3	1	2	1	2	4	7	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae
+Burkholderiaceae	7	19	7	6	4	5	19	28	24	150	101	14	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Burkholderiaceae
+Comamonadaceae	9	22	42	8	28	13	25	26	20	116	93	51	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae
+Oxalobacteraceae	9	13	73	42	40	13	29	13	33	51	76	136	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae
+Neisseriaceae	14	25	16	60	15	20	392	262	166	946	658	119	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae
+Methylophilaceae	0	0	0	0	0	1	0	0	0	3	0	1	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Nitrosomonadales; f__Methylophilaceae
+Rhodocyclaceae	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Rhodocyclales; f__Rhodocyclaceae
+Arcobacteraceae	0	0	0	0	0	0	5	8	1	25	21	3	d__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Arcobacteraceae
+Campylobacteraceae	0	0	0	0	0	0	0	0	0	0	1	0	d__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae
+Helicobacteraceae	0	0	0	0	0	0	4	1	1	11	9	0	d__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Helicobacteraceae
+Aeromonadaceae	0	0	0	0	0	0	0	0	0	0	1	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Aeromonadales; f__Aeromonadaceae
+Cardiobacteriaceae	0	0	2	0	0	0	1	5	0	35	4	3	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Cardiobacteriales; f__Cardiobacteriaceae
+Cellvibrionaceae	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Cellvibrionales; f__Cellvibrionaceae
+Enterobacteriaceae	18	38	31	17	28	39	1285	197	128	92	103	190	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae
+Erwiniaceae	0	4	0	0	1	0	354	42	13	1	13	48	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Erwiniaceae
+Morganellaceae	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Morganellaceae
+Pectobacteriaceae	0	0	0	0	0	0	1	2	0	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Pectobacteriaceae
+Yersiniaceae	0	0	1	0	0	0	99	5	1	3	1	7	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Yersiniaceae
+Moraxellaceae	44	45	47	110	68	80	37	21	12	190	98	49	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Moraxellales; f__Moraxellaceae
+Halomonadaceae	0	0	0	0	0	0	0	0	0	2	0	1	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Oceanospirillales; f__Halomonadaceae
+Pasteurellaceae	71	155	202	89	195	132	1012	1189	959	2245	2177	405	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae
+Pseudomonadaceae	6	4	6	11	12	5	37	3	3	32	13	31	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae
+Vibrionaceae	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Vibrionales; f__Vibrionaceae
+Rhodanobacteraceae	0	0	1	0	0	0	4	1	0	0	1	2	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Rhodanobacteraceae
+Xanthomonadaceae	11	15	29	11	11	20	7	3	6	60	40	26	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae
+Spirochaetaceae	0	0	0	0	0	0	0	0	0	2	0	0	d__Bacteria; p__Spirochaetes; c__Spirochaetia; o__Spirochaetales; f__Spirochaetaceae
+Synergistaceae	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Synergistetes; c__Synergistia; o__Synergistales; f__Synergistaceae
+Acholeplasmataceae	0	0	1	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Tenericutes; c__Mollicutes; o__Acholeplasmatales; f__Acholeplasmataceae
+Opitutaceae	0	0	0	0	0	0	0	0	2	0	0	0	d__Bacteria; p__Verrucomicrobia; c__Opitutae; o__Opitutales; f__Opitutaceae
+Verrucomicrobiaceae	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Verrucomicrobiaceae
+Bryobacterales	0	0	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Bryobacterales
+Acidimicrobiales	0	1	0	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales
+Corynebacteriales	0	3	0	1	0	0	1	0	2	3	2	2	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Corynebacteriales
+Micrococcales	10	15	53	7	3	8	1	7	9	30	20	82	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Micrococcales
+Propionibacteriales	2	2	7	2	0	4	0	7	3	5	2	27	d__Bacteria; p__Actinobacteria; c__Actinomycetia; o__Propionibacteriales
+Bacteroidales	3	3	16	2	18	4	38	27	22	252	136	24	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales
+Cytophagales	0	3	0	0	0	0	0	0	0	1	1	0	d__Bacteria; p__Bacteroidota; c__Cytophagia; o__Cytophagales
+Flavobacteriales	2	3	0	2	1	1	5	3	4	16	4	8	d__Bacteria; p__Bacteroidota; c__Flavobacteriia; o__Flavobacteriales
+Chroococcales	1	0	0	0	0	8	0	0	0	0	0	0	d__Bacteria; p__Cyanobacteria; c__unknown; o__Chroococcales
+Nostocales	11	5	21	11	3	18	11	3	15	19	21	9	d__Bacteria; p__Cyanobacteria; c__unknown; o__Nostocales
+Oscillatoriales	0	2	2	1	6	0	1	0	1	2	2	1	d__Bacteria; p__Cyanobacteria; c__unknown; o__Oscillatoriales
+Synechococcales	0	0	0	0	5	0	0	0	0	0	0	0	d__Bacteria; p__Cyanobacteria; c__unknown; o__Synechococcales
+Bacillales	261	170	104	182	246	106	61	319	187	125	116	201	d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales
+Lactobacillales	17	60	28	20	21	19	32	35	74	120	217	76	d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales
+Eubacteriales	3	26	77	18	25	14	100	80	54	308	252	22	d__Bacteria; p__Firmicutes; c__Clostridia; o__Eubacteriales
+Selenomonadales	0	0	0	0	0	0	1	0	0	0	0	0	d__Bacteria; p__Firmicutes; c__Negativicutes; o__Selenomonadales
+Tissierellales	3	11	11	5	10	5	2	8	3	21	9	8	d__Bacteria; p__Firmicutes; c__Tissierellia; o__Tissierellales
+Fusobacteriales	0	0	1	0	0	0	1	0	0	4	0	3	d__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales
+Pirellulales	0	0	2	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales
+Hyphomicrobiales	15	47	48	69	38	13	48	13	15	45	57	70	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Hyphomicrobiales
+Rhodospirillales	0	0	1	2	2	3	0	1	1	0	2	0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales
+Sphingomonadales	2	6	11	8	10	8	7	1	3	10	2	14	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales
+Burkholderiales	12	54	32	13	25	20	39	48	50	252	141	61	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales
+Neisseriales	2	5	2	9	0	2	41	38	23	137	88	30	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales
+Rhodocyclales	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Rhodocyclales
+Myxococcales	0	0	2	7	1	1	0	0	0	1	4	1	d__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Myxococcales
+Campylobacterales	0	0	0	0	0	0	3	0	0	1	1	0	d__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales
+Aeromonadales	0	0	0	0	0	0	0	0	1	0	0	0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Aeromonadales
+Enterobacterales	38	62	36	10	44	70	4888	567	352	167	291	690	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales
+Pseudomonadales	13	14	19	19	22	15	29	3	7	54	29	25	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales
+Xanthomonadales	2	0	4	2	0	3	2	0	2	8	3	4	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales
+Spirochaetales	0	0	0	0	0	0	0	0	0	1	0	0	d__Bacteria; p__Spirochaetes; c__Spirochaetia; o__Spirochaetales
+Verrucomicrobiales	0	0	1	0	0	0	0	0	0	0	0	0	d__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Verrucomicrobiales
+unassigned	822	1073	1226	1113	1106	964	1904	1382	966	2917	2530	1908	u__unassigned

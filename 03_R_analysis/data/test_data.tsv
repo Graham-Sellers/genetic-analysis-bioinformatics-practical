@@ -1,0 +1,55 @@
+OTU_ID	OP01	OP02	OP03	OP04	OP05	taxonomy
+Rhodeus_amarus	23	0	100	0	0	d__Eukaryota; p__Chordata; c__Actinopteri; o__Cypriniformes; f__Acheilognathidae; g__Rhodeus; s__Rhodeus_amarus
+Cobitis_taenia	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Actinopteri; o__Cypriniformes; f__Cobitidae; g__Cobitis; s__Cobitis_taenia
+Gobio_gobio	5	0	0	0	0	d__Eukaryota; p__Chordata; c__Actinopteri; o__Cypriniformes; f__Gobionidae; g__Gobio; s__Gobio_gobio
+Abramis_brama	0	0	58	0	0	d__Eukaryota; p__Chordata; c__Actinopteri; o__Cypriniformes; f__Leuciscidae; g__Abramis; s__Abramis_brama
+Rutilus_rutilus	37	0	91	0	0	d__Eukaryota; p__Chordata; c__Actinopteri; o__Cypriniformes; f__Leuciscidae; g__Rutilus; s__Rutilus_rutilus
+Scardinius_erythrophthalmus	0	0	5	0	0	d__Eukaryota; p__Chordata; c__Actinopteri; o__Cypriniformes; f__Leuciscidae; g__Scardinius; s__Scardinius_erythrophthalmus
+Esox_lucius	6	0	4	0	0	d__Eukaryota; p__Chordata; c__Actinopteri; o__Esociformes; f__Esocidae; g__Esox; s__Esox_lucius
+Gasterosteus_aculeatus	0	0	3	3	0	d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae; g__Gasterosteus; s__Gasterosteus_aculeatus
+Pungitius_pungitius	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae; g__Pungitius; s__Pungitius_pungitius
+Gymnocephalus_cernua	0	0	4	0	0	d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Percidae; g__Gymnocephalus; s__Gymnocephalus_cernua
+Salmo_trutta	0	4935	0	0	0	d__Eukaryota; p__Chordata; c__Actinopteri; o__Salmoniformes; f__Salmonidae; g__Salmo; s__Salmo_trutta
+Bufo_bufo	0	373	0	0	0	d__Eukaryota; p__Chordata; c__Amphibia; o__Anura; f__Bufonidae; g__Bufo; s__Bufo_bufo
+Rana_temporaria	837	1610	2968	1892	150	d__Eukaryota; p__Chordata; c__Amphibia; o__Anura; f__Ranidae; g__Rana; s__Rana_temporaria
+Lissotriton_vulgaris	560	4907	428	0	0	d__Eukaryota; p__Chordata; c__Amphibia; o__Caudata; f__Salamandridae; g__Lissotriton; s__Lissotriton_vulgaris
+Accipiter_nisus	1696	15428	0	0	0	d__Eukaryota; p__Chordata; c__Aves; o__Accipitriformes; f__Accipitridae; g__Accipiter; s__Accipiter_nisus
+Buteo_buteo	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Aves; o__Accipitriformes; f__Accipitridae; g__Buteo; s__Buteo_buteo
+Anas_carolinensis	0	0	900	0	0	d__Eukaryota; p__Chordata; c__Aves; o__Anseriformes; f__Anatidae; g__Anas; s__Anas_carolinensis
+Gallinago_gallinago	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Aves; o__Charadriiformes; f__Scolopacidae; g__Gallinago; s__Gallinago_gallinago
+Columba_livia	3281	3988	0	1592	543	d__Eukaryota; p__Chordata; c__Aves; o__Columbiformes; f__Columbidae; g__Columba; s__Columba_livia
+Columba_oenas	0	0	0	2099	83	d__Eukaryota; p__Chordata; c__Aves; o__Columbiformes; f__Columbidae; g__Columba; s__Columba_oenas
+Phasianus_colchicus	0	0	2599	1667	160	d__Eukaryota; p__Chordata; c__Aves; o__Galliformes; f__Phasianidae; g__Phasianus; s__Phasianus_colchicus
+Gallinula_chloropus	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Aves; o__Gruiformes; f__Rallidae; g__Gallinula; s__Gallinula_chloropus
+Aegithalos_caudatus	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Aves; o__Passeriformes; f__Aegithalidae; g__Aegithalos; s__Aegithalos_caudatus
+Troglodytes_troglodytes	2818	2957	490	0	0	d__Eukaryota; p__Chordata; c__Aves; o__Passeriformes; f__Certhiidae; g__Troglodytes; s__Troglodytes_troglodytes
+Parus_major	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Aves; o__Passeriformes; f__Paridae; g__Parus; s__Parus_major
+Sturnus_vulgaris	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Aves; o__Passeriformes; f__Sturnidae; g__Sturnus; s__Sturnus_vulgaris
+Erithacus_rubecula	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Aves; o__Passeriformes; f__Turdidae; g__Erithacus; s__Erithacus_rubecula
+Bos_taurus	0	0	0	173	0	d__Eukaryota; p__Chordata; c__Mammalia; o__Artiodactyla; f__Bovidae; g__Bos; s__Bos_taurus
+Ovis_aries	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Mammalia; o__Artiodactyla; f__Bovidae; g__Ovis; s__Ovis_aries
+Sus_scrofa	1568	0	0	0	0	d__Eukaryota; p__Chordata; c__Mammalia; o__Artiodactyla; f__Suidae; g__Sus; s__Sus_scrofa
+Canis_lupus	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Mammalia; o__Carnivora; f__Canidae; g__Canis; s__Canis_lupus
+Vulpes_vulpes	873	0	0	0	0	d__Eukaryota; p__Chordata; c__Mammalia; o__Carnivora; f__Canidae; g__Vulpes; s__Vulpes_vulpes
+Neomys_fodiens	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Mammalia; o__Eulipotyphla; f__Soricidae; g__Neomys; s__Neomys_fodiens
+Sorex_araneus	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Mammalia; o__Eulipotyphla; f__Soricidae; g__Sorex; s__Sorex_araneus
+Sorex_minutus	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Mammalia; o__Eulipotyphla; f__Soricidae; g__Sorex; s__Sorex_minutus
+Oryctolagus_cuniculus	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Mammalia; o__Lagomorpha; f__Leporidae; g__Oryctolagus; s__Oryctolagus_cuniculus
+Homo_sapiens	5854	21052	22170	2886	630	d__Eukaryota; p__Chordata; c__Mammalia; o__Primates; f__Hominidae; g__Homo; s__Homo_sapiens
+Arvicola_amphibius	6	0	0	0	0	d__Eukaryota; p__Chordata; c__Mammalia; o__Rodentia; f__Cricetidae; g__Arvicola; s__Arvicola_amphibius
+Microtus_agrestis	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Mammalia; o__Rodentia; f__Cricetidae; g__Microtus; s__Microtus_agrestis
+Myodes_glareolus	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Mammalia; o__Rodentia; f__Cricetidae; g__Myodes; s__Myodes_glareolus
+Rattus_norvegicus	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Mammalia; o__Rodentia; f__Muridae; g__Rattus; s__Rattus_norvegicus
+Neosciurus_carolinensis	779	0	972	0	0	d__Eukaryota; p__Chordata; c__Mammalia; o__Rodentia; f__Sciuridae; g__Neosciurus; s__Neosciurus_carolinensis
+Anas	0	0	375	0	0	d__Eukaryota; p__Chordata; c__Aves; o__Anseriformes; f__Anatidae; g__Anas
+Columba	5066	15073	2995	11052	376	d__Eukaryota; p__Chordata; c__Aves; o__Columbiformes; f__Columbidae; g__Columba
+Regulus	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Aves; o__Passeriformes; f__Sylviidae; g__Regulus
+Turdus	46576	0	2574	1768	183	d__Eukaryota; p__Chordata; c__Aves; o__Passeriformes; f__Turdidae; g__Turdus
+Apodemus	1076	795	26912	0	0	d__Eukaryota; p__Chordata; c__Mammalia; o__Rodentia; f__Muridae; g__Apodemus
+Gasterosteidae	3	0	0	0	0	d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae
+Percidae	22	0	31	0	0	d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Percidae
+Anatidae	75271	187369	84161	48042	3949	d__Eukaryota; p__Chordata; c__Aves; o__Anseriformes; f__Anatidae
+Phasianidae	0	0	0	424	0	d__Eukaryota; p__Chordata; c__Aves; o__Galliformes; f__Phasianidae
+Corvidae	0	7729	0	0	0	d__Eukaryota; p__Chordata; c__Aves; o__Passeriformes; f__Corvidae
+Fringillidae	0	0	0	0	0	d__Eukaryota; p__Chordata; c__Aves; o__Passeriformes; f__Fringillidae
+unassigned	7458	20121	6299	4655	157	u__unassigned
